@@ -1,0 +1,1053 @@
+ICD9_diagnosis_code	trait_description	phecode	Inclusion/Exclusion	phenotype
+493	Asthma	495	Inclusion	Asthma
+493.0	Extrinsic asthma	495	Inclusion	Asthma
+493.00	Extrinsic asthma without mention of status asthmaticus	495	Inclusion	Asthma
+493.01	Extrinsic asthma with status asthmaticus	495.2	Inclusion	Asthma
+493.02	Extrinsic asthma with acute exacerbation	495.2	Inclusion	Asthma
+493.1	Intrinsic asthma	495	Inclusion	Asthma
+493.10	Intrinsic asthma without mention of status asthmaticus	495	Inclusion	Asthma
+493.11	Intrinsic asthma with status asthmaticus	495.2	Inclusion	Asthma
+493.12	Intrinsic asthma with acute exacerbation	495.2	Inclusion	Asthma
+493.2	Chronic obstructive asthma	495.1	Inclusion	Asthma
+493.20	Chronic obstructive asthma, without mention of status asthmaticus	495.1	Inclusion	Asthma
+493.21	Chronic obstructive asthma, with status asthmaticus	495.11	Inclusion	Asthma
+493.22	Chronic obstructive asthma, with acute exacerbation	495.11	Inclusion	Asthma
+493.8	Other forms of asthma	495	Inclusion	Asthma
+493.81	Exercise induced bronchospasm	495.2	Inclusion	Asthma
+493.82	Cough variant asthma	495	Inclusion	Asthma
+493.9	Asthma, unspecified	495	Inclusion	Asthma
+493.90	Asthma, unspecified type, without mention of status asthmaticus	495	Inclusion	Asthma
+493.91	Asthma, unspecified type, with status asthmaticus	495.2	Inclusion	Asthma
+493.92	Asthma, unspecified type, with acute exacerbation	495.2	Inclusion	Asthma
+490	Bronchitis NOS	497	Exclusion	Asthma
+491	Chronic bronchitis	496.2	Exclusion	Asthma
+491.0	Simple chronic bronchitis	496.2	Exclusion	Asthma
+491.1	Mucopurulent chronic bronchitis	496.2	Exclusion	Asthma
+491.2	Obstructive chronic bronchitis	496.21	Exclusion	Asthma
+491.20	Obstructive chronic bronchitis, without exacerbation	496.21	Exclusion	Asthma
+491.21	Obstructive chronic bronchitis with (acute) exacerbation	496.21	Exclusion	Asthma
+491.22	Obstructive chronic bronchitis with acute bronchitis	496.21	Exclusion	Asthma
+491.8	Other chronic bronchitis	496.2	Exclusion	Asthma
+491.9	Chronic bronchitis NOS	496.2	Exclusion	Asthma
+492	Emphysema	496.1	Exclusion	Asthma
+492.0	Emphysematous bleb	496.1	Exclusion	Asthma
+492.8	Other emphysema	496.1	Exclusion	Asthma
+493	Asthma	495	Exclusion	Asthma
+493.0	Extrinsic asthma	495	Exclusion	Asthma
+493.00	Extrinsic asthma without mention of status asthmaticus	495	Exclusion	Asthma
+493.01	Extrinsic asthma with status asthmaticus	495.2	Exclusion	Asthma
+493.02	Extrinsic asthma with acute exacerbation	495.2	Exclusion	Asthma
+493.1	Intrinsic asthma	495	Exclusion	Asthma
+493.10	Intrinsic asthma without mention of status asthmaticus	495	Exclusion	Asthma
+493.11	Intrinsic asthma with status asthmaticus	495.2	Exclusion	Asthma
+493.12	Intrinsic asthma with acute exacerbation	495.2	Exclusion	Asthma
+493.2	Chronic obstructive asthma	495.1	Exclusion	Asthma
+493.20	Chronic obstructive asthma, without mention of status asthmaticus	495.1	Exclusion	Asthma
+493.21	Chronic obstructive asthma, with status asthmaticus	495.11	Exclusion	Asthma
+493.22	Chronic obstructive asthma, with acute exacerbation	495.11	Exclusion	Asthma
+493.8	Other forms of asthma	495	Exclusion	Asthma
+493.81	Exercise induced bronchospasm	495.2	Exclusion	Asthma
+493.82	Cough variant asthma	495	Exclusion	Asthma
+493.9	Asthma, unspecified	495	Exclusion	Asthma
+493.90	Asthma, unspecified type, without mention of status asthmaticus	495	Exclusion	Asthma
+493.91	Asthma, unspecified type, with status asthmaticus	495.2	Exclusion	Asthma
+493.92	Asthma, unspecified type, with acute exacerbation	495.2	Exclusion	Asthma
+494	Bronchiectasis	496.3	Exclusion	Asthma
+494.0	Bronchiectasis without acute exacerbation	496.3	Exclusion	Asthma
+494.1	Bronchiectasis with acute exacerbation	496.3	Exclusion	Asthma
+496	Chronic airway obstruction, not elsewhere classified	496	Exclusion	Asthma
+519.11	Acute bronchospasm	498	Exclusion	Asthma
+427.31	Atrial fibrillation	427.21	Inclusion	Atrial fibrillation (AFib)
+426	Conduction disorders	426.8	Exclusion	Atrial fibrillation (AFib)
+426.0	Atrioventricular block, complete	426.24	Exclusion	Atrial fibrillation (AFib)
+426.1	Atrioventricular block, other and unspecified	426.2	Exclusion	Atrial fibrillation (AFib)
+426.10	Atrioventricular block, unspecified	426.2	Exclusion	Atrial fibrillation (AFib)
+426.11	First degree atrioventricular block	426.21	Exclusion	Atrial fibrillation (AFib)
+426.12	Mobitz (type) II atrioventricular block	426.22	Exclusion	Atrial fibrillation (AFib)
+426.13	Other second degree atrioventricular block	426.23	Exclusion	Atrial fibrillation (AFib)
+426.2	Left bundle branch hemiblock	426.32	Exclusion	Atrial fibrillation (AFib)
+426.3	Other left bundle branch block	426.32	Exclusion	Atrial fibrillation (AFib)
+426.4	Right bundle branch block	426.31	Exclusion	Atrial fibrillation (AFib)
+426.5	Bundle branch block NOS	426.3	Exclusion	Atrial fibrillation (AFib)
+426.50	Bundle branch block, other and unspecified	426.3	Exclusion	Atrial fibrillation (AFib)
+426.51	Right bundle branch block and left posterior fascicular block	426.31	Exclusion	Atrial fibrillation (AFib)
+426.52	Right bundle branch block and left anterior fascicular block	426.31	Exclusion	Atrial fibrillation (AFib)
+426.53	Other bilateral bundle branch block	426.3	Exclusion	Atrial fibrillation (AFib)
+426.54	Trifascicular block	426.3	Exclusion	Atrial fibrillation (AFib)
+426.6	Other heart block	426.25	Exclusion	Atrial fibrillation (AFib)
+426.7	Anomalous atrioventricular excitation	426.4	Exclusion	Atrial fibrillation (AFib)
+426.8	Other specified conduction disorders	426.8	Exclusion	Atrial fibrillation (AFib)
+426.81	Lown-Ganong-Levine syndrome	426.8	Exclusion	Atrial fibrillation (AFib)
+426.82	Long QT syndrome	426.8	Exclusion	Atrial fibrillation (AFib)
+426.89	Other specified conduction disorders	426.8	Exclusion	Atrial fibrillation (AFib)
+426.9	Conduction disorder NOS	426	Exclusion	Atrial fibrillation (AFib)
+427	Cardiac dysrhythmias	427	Exclusion	Atrial fibrillation (AFib)
+427.0	Paroxysmal supraventricular tachycardia	427.11	Exclusion	Atrial fibrillation (AFib)
+427.1	Paroxysmal ventricular tachycardia	427.12	Exclusion	Atrial fibrillation (AFib)
+427.2	Paroxysmal tachycardia, unspecified	427.1	Exclusion	Atrial fibrillation (AFib)
+427.3	Atrial fibrillation and flutter	427.2	Exclusion	Atrial fibrillation (AFib)
+427.31	Atrial fibrillation	427.21	Exclusion	Atrial fibrillation (AFib)
+427.32	Atrial flutter	427.22	Exclusion	Atrial fibrillation (AFib)
+427.4	Ventricular fibrillation and flutter	427.4	Exclusion	Atrial fibrillation (AFib)
+427.41	Ventricular fibrillation	427.41	Exclusion	Atrial fibrillation (AFib)
+427.42	Ventricular flutter	427.41	Exclusion	Atrial fibrillation (AFib)
+427.5	Cardiac arrest	427.42	Exclusion	Atrial fibrillation (AFib)
+427.6	Premature beats	9	Exclusion	Atrial fibrillation (AFib)
+427.60	Premature beats NOS	427.6	Exclusion	Atrial fibrillation (AFib)
+427.61	Supraventricular premature beats	427.61	Exclusion	Atrial fibrillation (AFib)
+427.69	Other premature beats	427.6	Exclusion	Atrial fibrillation (AFib)
+427.8	Other specified cardiac dysrhythmias	427.3	Exclusion	Atrial fibrillation (AFib)
+427.81	Sinoatrial node dysfunction	427.8	Exclusion	Atrial fibrillation (AFib)
+427.89	Other specified cardiac dysrhythmias	427.3	Exclusion	Atrial fibrillation (AFib)
+427.9	Cardiac dysrhythmia NOS	427.5	Exclusion	Atrial fibrillation (AFib)
+785.0	Tachycardia NOS	427.7	Exclusion	Atrial fibrillation (AFib)
+785.1	Palpitations	427.9	Exclusion	Atrial fibrillation (AFib)
+794.31	Nonspecific abnormal electrocardiogram [ECG] [EKG]	426.7	Exclusion	Atrial fibrillation (AFib)
+996.01	Mechanical complication due to cardiac pacemaker (electrode)	426.91	Exclusion	Atrial fibrillation (AFib)
+996.04	Mechanical complication due to automatic implantable cardiac defibrillator	426.92	Exclusion	Atrial fibrillation (AFib)
+V12.53	Personal history of sudden cardiac arrest	427.42	Exclusion	Atrial fibrillation (AFib)
+V45.0	Cardiac pacemaker in situ	426.91	Exclusion	Atrial fibrillation (AFib)
+V45.00	Unspecified cardiac device in situ	426.9	Exclusion	Atrial fibrillation (AFib)
+V45.01	Cardiac pacemaker in situ	426.91	Exclusion	Atrial fibrillation (AFib)
+V45.02	Automatic implantable cardiac defibrillator in situ	426.92	Exclusion	Atrial fibrillation (AFib)
+V45.09	Other specified cardiac device in situ	426.9	Exclusion	Atrial fibrillation (AFib)
+V53.3	Fitting and adjustment of cardiac pacemaker	426.91	Exclusion	Atrial fibrillation (AFib)
+V53.31	Fitting and adjustment of cardiac pacemaker	426.91	Exclusion	Atrial fibrillation (AFib)
+V53.32	Fitting and adjustment of automatic implantable cardiac defibrillator	426.92	Exclusion	Atrial fibrillation (AFib)
+V53.39	Fitting and adjustment of other cardiac device	426.9	Exclusion	Atrial fibrillation (AFib)
+174.	Malignant neoplasm of female breast	174.11	Inclusion	Breast cancer (BC)
+174.0	Malignant neoplasm of nipple and areola of female breast	174.11	Inclusion	Breast cancer (BC)
+174.1	Malignant neoplasm of central portion of female breast	174.11	Inclusion	Breast cancer (BC)
+174.2	Malignant neoplasm of upper-inner quadrant of female breast	174.11	Inclusion	Breast cancer (BC)
+174.3	Malignant neoplasm of lower-inner quadrant of female breast	174.11	Inclusion	Breast cancer (BC)
+174.4	Malignant neoplasm of upper-outer quadrant of female breast	174.11	Inclusion	Breast cancer (BC)
+174.5	Malignant neoplasm of lower-outer quadrant of female breast	174.11	Inclusion	Breast cancer (BC)
+174.6	Malignant neoplasm of axillary tail of female breast	174.11	Inclusion	Breast cancer (BC)
+174.8	Malignant neoplasm of other specified sites of female breast	174.11	Inclusion	Breast cancer (BC)
+174.9	Malignant neoplasm of breast (female), unspecified	174.11	Inclusion	Breast cancer (BC)
+233.0	Carcinoma in situ of breast	174.1	Inclusion	Breast cancer (BC)
+238.3	Neoplasm of uncertain behavior of breast	174.3	Inclusion	Breast cancer (BC)
+239.3	Neoplasm of unspecified nature of breast	174.3	Inclusion	Breast cancer (BC)
+V10.3	Personal history of malignant neoplasm of breast	174.11	Inclusion	Breast cancer (BC)
+174	Malignant neoplasm of female breast	174.11	Exclusion	Breast cancer (BC)
+174.0	Malignant neoplasm of nipple and areola of female breast	174.11	Exclusion	Breast cancer (BC)
+174.1	Malignant neoplasm of central portion of female breast	174.11	Exclusion	Breast cancer (BC)
+174.2	Malignant neoplasm of upper-inner quadrant of female breast	174.11	Exclusion	Breast cancer (BC)
+174.3	Malignant neoplasm of lower-inner quadrant of female breast	174.11	Exclusion	Breast cancer (BC)
+174.4	Malignant neoplasm of upper-outer quadrant of female breast	174.11	Exclusion	Breast cancer (BC)
+174.5	Malignant neoplasm of lower-outer quadrant of female breast	174.11	Exclusion	Breast cancer (BC)
+174.6	Malignant neoplasm of axillary tail of female breast	174.11	Exclusion	Breast cancer (BC)
+174.8	Malignant neoplasm of other specified sites of female breast	174.11	Exclusion	Breast cancer (BC)
+174.9	Malignant neoplasm of breast (female), unspecified	174.11	Exclusion	Breast cancer (BC)
+175	Malignant neoplasm of male breast	174.2	Exclusion	Breast cancer (BC)
+175.0	Malignant neoplasm of nipple and areola of male breast	174.2	Exclusion	Breast cancer (BC)
+175.9	Malignant neoplasm of other and unspecified sites of male breast	174.2	Exclusion	Breast cancer (BC)
+179	Malignant neoplasm of uterus, part unspecified	182	Exclusion	Breast cancer (BC)
+180	Malignant neoplasm of cervix uteri	180	Exclusion	Breast cancer (BC)
+180.0	Malignant neoplasm of endocervix	180.1	Exclusion	Breast cancer (BC)
+180.1	Malignant neoplasm of exocervix	180.1	Exclusion	Breast cancer (BC)
+180.8	Malignant neoplasm of other specified sites of cervix	180.1	Exclusion	Breast cancer (BC)
+180.9	Malignant neoplasm of cervix uteri, unspecified	180.1	Exclusion	Breast cancer (BC)
+181	Malignant neoplasm of placenta	184.1	Exclusion	Breast cancer (BC)
+182	Malignant neoplasm of body of uterus	182	Exclusion	Breast cancer (BC)
+182.0	Malignant neoplasm of corpus uteri, except isthmus	182	Exclusion	Breast cancer (BC)
+182.1	Malignant neoplasm of isthmus	182	Exclusion	Breast cancer (BC)
+182.8	Malignant neoplasm of other specified sites of body of uterus	182	Exclusion	Breast cancer (BC)
+183	Malignant neoplasm of ovary and other uterine adnexa	184.1	Exclusion	Breast cancer (BC)
+183.0	Malignant neoplasm of ovary	184.11	Exclusion	Breast cancer (BC)
+183.2	Malignant neoplasm of fallopian tube	184.1	Exclusion	Breast cancer (BC)
+183.3	Malignant neoplasm of broad ligament of uterus	184.1	Exclusion	Breast cancer (BC)
+183.4	Malignant neoplasm of parametrium	184.1	Exclusion	Breast cancer (BC)
+183.5	Malignant neoplasm of round ligament of uterus	184.1	Exclusion	Breast cancer (BC)
+183.8	Malignant neoplasm of other specified sites of uterine adnexa	184.1	Exclusion	Breast cancer (BC)
+183.9	Malignant neoplasm of uterine adnexa, unspecified	184.1	Exclusion	Breast cancer (BC)
+184	Malignant neoplasm of other and unspecified female genital organs	184.1	Exclusion	Breast cancer (BC)
+184.0	Malignant neoplasm of vagina	184.2	Exclusion	Breast cancer (BC)
+184.1	Malignant neoplasm of labia majora	184.2	Exclusion	Breast cancer (BC)
+184.2	Malignant neoplasm of labia minora	184.2	Exclusion	Breast cancer (BC)
+184.3	Malignant neoplasm of clitoris	184.2	Exclusion	Breast cancer (BC)
+184.4	Malignant neoplasm of vulva, unspecified	184.2	Exclusion	Breast cancer (BC)
+184.8	Malignant neoplasm of other specified sites of female genital organs	184.1	Exclusion	Breast cancer (BC)
+184.9	Malignant neoplasm of female genital organ, site unspecified	184.1	Exclusion	Breast cancer (BC)
+217	Benign neoplasm of breast	610.4	Exclusion	Breast cancer (BC)
+233.0	Carcinoma in situ of breast	174.1	Exclusion	Breast cancer (BC)
+233.1	Carcinoma in situ of cervix uteri	180.3	Exclusion	Breast cancer (BC)
+233.2	Carcinoma in situ of other and unspecified parts of uterus	182	Exclusion	Breast cancer (BC)
+233.3	Carcinoma in situ of other and unspecified female genital organs	184.2	Exclusion	Breast cancer (BC)
+233.30	Carcinoma in situ of unspecified female genital organ	184.2	Exclusion	Breast cancer (BC)
+233.31	Carcinoma in situ of vagina	184.2	Exclusion	Breast cancer (BC)
+233.32	Carcinoma in situ of vulva	184.2	Exclusion	Breast cancer (BC)
+233.39	Carcinoma in situ of other female genital organ	184.2	Exclusion	Breast cancer (BC)
+236.0	Neoplasm of uncertain behavior of uterus	184.2	Exclusion	Breast cancer (BC)
+236.1	Neoplasm of uncertain behavior of placenta	184.2	Exclusion	Breast cancer (BC)
+236.2	Neoplasm of uncertain behavior of ovary	184	Exclusion	Breast cancer (BC)
+236.3	Neoplasm of uncertain behavior of other and unspecified female genital organs	184.2	Exclusion	Breast cancer (BC)
+238.3	Neoplasm of uncertain behavior of breast	174.3	Exclusion	Breast cancer (BC)
+239.3	Neoplasm of unspecified nature of breast	174.3	Exclusion	Breast cancer (BC)
+610	Benign mammary dysplasias	610	Exclusion	Breast cancer (BC)
+610.0	Solitary cyst of breast	610.1	Exclusion	Breast cancer (BC)
+610.1	Diffuse cystic mastopathy	610.1	Exclusion	Breast cancer (BC)
+610.2	Fibroadenosis of breast	610.2	Exclusion	Breast cancer (BC)
+610.3	Fibrosclerosis of breast	610.3	Exclusion	Breast cancer (BC)
+610.4	Mammary duct ectasia	610.8	Exclusion	Breast cancer (BC)
+610.8	Other specified benign mammary dysplasias	610.8	Exclusion	Breast cancer (BC)
+610.9	Benign mammary dysplasia NOS	610.8	Exclusion	Breast cancer (BC)
+612	Deformity and disproportion of reconstructed breast	175	Exclusion	Breast cancer (BC)
+612.0	Deformity of reconstructed breast	175	Exclusion	Breast cancer (BC)
+612.1	Disproportion of reconstructed breast	175	Exclusion	Breast cancer (BC)
+622.1	Dysplasia of cervix (uteri)	180.3	Exclusion	Breast cancer (BC)
+622.10	Dysplasia of cervix NOS	180.3	Exclusion	Breast cancer (BC)
+622.11	Mild dysplasia of cervix	180.3	Exclusion	Breast cancer (BC)
+622.12	Moderate dysplasia of cervix	180.3	Exclusion	Breast cancer (BC)
+V10.3	Personal history of malignant neoplasm of breast	174.11	Exclusion	Breast cancer (BC)
+V10.40	Personal history of malignant neoplasm of unspecified female genital organ	184.1	Exclusion	Breast cancer (BC)
+V10.41	Personal history of malignant neoplasm of cervix uteri	180.1	Exclusion	Breast cancer (BC)
+V10.42	Personal history of malignant neoplasm of other parts of uterus	182	Exclusion	Breast cancer (BC)
+V10.43	Personal history of malignant neoplasm of ovary	184.11	Exclusion	Breast cancer (BC)
+V10.44	Personal history of malignant neoplasm of other female genital organs	184.1	Exclusion	Breast cancer (BC)
+V45.71	Acquired absence of breast and nipple	175	Exclusion	Breast cancer (BC)
+V50.41	Prophylactic breast removal	175	Exclusion	Breast cancer (BC)
+V51.0	Encounter for breast reconstruction following mastectomy	175	Exclusion	Breast cancer (BC)
+V84.01	Genetic susceptibility to malignant neoplasm of breast	175	Exclusion	Breast cancer (BC)
+585.	Chronic kidney disease (CKD)	585.3	Inclusion	Chronic kidney disease (CKD)
+585.0	Chronic kidney disease (CKD) **	585.3	Inclusion	Chronic kidney disease (CKD)
+585.1	Chronic kidney disease, Stage I	585.4	Inclusion	Chronic kidney disease (CKD)
+585.2	Chronic kidney disease, Stage II (mild)	585.4	Inclusion	Chronic kidney disease (CKD)
+585.3	Chronic kidney disease, Stage III (moderate)	585.33	Inclusion	Chronic kidney disease (CKD)
+585.4	Chronic kidney disease, Stage IV (severe)	585.34	Inclusion	Chronic kidney disease (CKD)
+585.5	Chronic kidney disease, Stage V	585.32	Inclusion	Chronic kidney disease (CKD)
+585.6	End stage renal disease	585.32	Inclusion	Chronic kidney disease (CKD)
+585.9	Chronic kidney disease, unspecified	585.3	Inclusion	Chronic kidney disease (CKD)
+792.5	Cloudy (hemodialysis) (peritoneal) dialysis effluent	585.31	Inclusion	Chronic kidney disease (CKD)
+996.73	Other complications due to renal dialysis device, implant, and graft	585.31	Inclusion	Chronic kidney disease (CKD)
+E870.2	Accidental cut, puncture, perforation or hemorrhage during kidney dialysis or other perfusion	585.31	Inclusion	Chronic kidney disease (CKD)
+E871.2	Foreign object left in body during kidney dialysis or other perfusion	585.31	Inclusion	Chronic kidney disease (CKD)
+E872.2	Failure of sterile precautions during kidney dialysis and other perfusion	585.31	Inclusion	Chronic kidney disease (CKD)
+E874.2	Mechanical failure of instrument or apparatus during kidney dialysis and other perfusion	585.31	Inclusion	Chronic kidney disease (CKD)
+E879.1	Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure	585.31	Inclusion	Chronic kidney disease (CKD)
+V45.1	Postsurgical renal dialysis status	585.31	Inclusion	Chronic kidney disease (CKD)
+V45.11	Renal dialysis status	585.31	Inclusion	Chronic kidney disease (CKD)
+V45.12	Noncompliance with renal dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.	Encounter for dialysis and dialysis catheter care	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.0	Encounter for extracorporeal dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.1	Fitting and adjustment of extracorporeal dialysis catheter	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.2	Fitting and adjustment of peritoneal dialysis catheter	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.31	Encounter for adequacy testing for hemodialysis	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.32	Encounter for adequacy testing for peritoneal dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
+V56.8	Encounter for other dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
+580	Acute glomerulonephritis	580	Exclusion	Chronic kidney disease (CKD)
+580.0	Acute glomerulonephritis with lesion of proliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+580.4	Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+580.8	Acute glomerulonephritis with other specified pathological lesion in kidney	580.13	Exclusion	Chronic kidney disease (CKD)
+580.81	Acute glomerulonephritis in diseases classified elsewhere	580.13	Exclusion	Chronic kidney disease (CKD)
+580.89	Acute glomerulonephritis with other specified pathological lesion in kidney	580.13	Exclusion	Chronic kidney disease (CKD)
+580.9	Acute glomerulonephritis with unspecified pathological lesion in kidney	580.13	Exclusion	Chronic kidney disease (CKD)
+581	Nephrotic syndrome	580	Exclusion	Chronic kidney disease (CKD)
+581.0	Nephrotic syndrome with lesion of proliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+581.1	Nephrotic syndrome with lesion of membranous glomerulonephritis	580.12	Exclusion	Chronic kidney disease (CKD)
+581.2	Nephrotic syndrome with lesion of membranoproliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+581.3	Nephrotic syndrome with lesion of minimal change glomerulonephritis	580.12	Exclusion	Chronic kidney disease (CKD)
+581.8	Nephrotic syndrome with other specified pathological lesion in kidney	580.2	Exclusion	Chronic kidney disease (CKD)
+581.81	Nephrotic syndrome in diseases classified elsewhere	580.2	Exclusion	Chronic kidney disease (CKD)
+581.89	Nephrotic syndrome with other specified pathological lesion in kidney	580.2	Exclusion	Chronic kidney disease (CKD)
+581.9	Nephrotic syndrome with unspecified pathological lesion in kidney	580.2	Exclusion	Chronic kidney disease (CKD)
+582	Chronic glomerulonephritis	580.1	Exclusion	Chronic kidney disease (CKD)
+582.0	Chronic glomerulonephritis with lesion of proliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+582.1	Chronic glomerulonephritis with lesion of membranous glomerulonephritis	580.12	Exclusion	Chronic kidney disease (CKD)
+582.2	Chronic glomerulonephritis with lesion of membranoproliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+582.4	Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+582.8	Chronic glomerulonephritis with other specified pathological lesion in kidney	580.14	Exclusion	Chronic kidney disease (CKD)
+582.81	Chronic glomerulonephritis in diseases classified elsewhere	580.14	Exclusion	Chronic kidney disease (CKD)
+582.89	Chronic glomerulonephritis with other specified pathological lesion in kidney	580.14	Exclusion	Chronic kidney disease (CKD)
+582.9	Chronic glomerulonephritis with unspecified pathological lesion in kidney	580.14	Exclusion	Chronic kidney disease (CKD)
+583	Nephritis and nephropathy, not specified as acute or chronic	580	Exclusion	Chronic kidney disease (CKD)
+583.0	Nephritis and nephropathy, not specified as acute or chronic, with lesion of proliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+583.1	Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranous glomerulonephritis	580.12	Exclusion	Chronic kidney disease (CKD)
+583.2	Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+583.4	Nephritis and nephropathy, not specified as acute or chronic, with lesion of rapidly progressive glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
+583.6	Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal cortical necrosis	580.3	Exclusion	Chronic kidney disease (CKD)
+583.7	Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal medullary necrosis	580.32	Exclusion	Chronic kidney disease (CKD)
+583.8	Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney	580.32	Exclusion	Chronic kidney disease (CKD)
+583.81	Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere	580.31	Exclusion	Chronic kidney disease (CKD)
+583.89	Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney	580.32	Exclusion	Chronic kidney disease (CKD)
+583.9	Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney	580.32	Exclusion	Chronic kidney disease (CKD)
+584	Acute renal failure	585	Exclusion	Chronic kidney disease (CKD)
+584.5	Acute renal failure with lesion of tubular necrosis	585.1	Exclusion	Chronic kidney disease (CKD)
+584.6	Acute renal failure with lesion of renal cortical necrosis	585.1	Exclusion	Chronic kidney disease (CKD)
+584.7	Acute renal failure with lesion of renal medullary [papillary] necrosis	585.1	Exclusion	Chronic kidney disease (CKD)
+584.8	Acute renal failure with other specified pathological lesion in kidney	585.1	Exclusion	Chronic kidney disease (CKD)
+584.9	Acute renal failure NOS	585.1	Exclusion	Chronic kidney disease (CKD)
+585	Chronic kidney disease (CKD)	585.3	Exclusion	Chronic kidney disease (CKD)
+585.0	Chronic kidney disease (CKD) **	585.3	Exclusion	Chronic kidney disease (CKD)
+585.1	Chronic kidney disease, Stage I	585.4	Exclusion	Chronic kidney disease (CKD)
+585.2	Chronic kidney disease, Stage II (mild)	585.4	Exclusion	Chronic kidney disease (CKD)
+585.3	Chronic kidney disease, Stage III (moderate)	585.33	Exclusion	Chronic kidney disease (CKD)
+585.4	Chronic kidney disease, Stage IV (severe)	585.34	Exclusion	Chronic kidney disease (CKD)
+585.5	Chronic kidney disease, Stage V	585.32	Exclusion	Chronic kidney disease (CKD)
+585.6	End stage renal disease	585.32	Exclusion	Chronic kidney disease (CKD)
+585.9	Chronic kidney disease, unspecified	585.3	Exclusion	Chronic kidney disease (CKD)
+586	Renal failure unspecified	585.2	Exclusion	Chronic kidney disease (CKD)
+586.0	Renal failure unspecified **	585.2	Exclusion	Chronic kidney disease (CKD)
+587	Renal sclerosis unspecified	580.4	Exclusion	Chronic kidney disease (CKD)
+587.0	Renal sclerosis unspecified **	580.4	Exclusion	Chronic kidney disease (CKD)
+588	Disorders resulting from impaired renal function	588	Exclusion	Chronic kidney disease (CKD)
+588.0	Renal osteodystrophy	588.1	Exclusion	Chronic kidney disease (CKD)
+588.1	Nephrogenic diabetes insipidus	588	Exclusion	Chronic kidney disease (CKD)
+588.8	Other specified disorders resulting from impaired renal function	588	Exclusion	Chronic kidney disease (CKD)
+588.81	Secondary hyperparathyroidism (of renal origin)	588.2	Exclusion	Chronic kidney disease (CKD)
+588.89	Other specified disorders resulting from impaired renal function	588	Exclusion	Chronic kidney disease (CKD)
+588.9	Unspecified disorder resulting from impaired renal function	588	Exclusion	Chronic kidney disease (CKD)
+589	Small kidney of unknown cause	586.11	Exclusion	Chronic kidney disease (CKD)
+589.0	Unilateral small kidney	586.11	Exclusion	Chronic kidney disease (CKD)
+589.1	Bilateral small kidneys	586.11	Exclusion	Chronic kidney disease (CKD)
+589.9	Small kidney NOS	586.11	Exclusion	Chronic kidney disease (CKD)
+590	Infections of kidney	590	Exclusion	Chronic kidney disease (CKD)
+590.0	Chronic pyelonephritis	590	Exclusion	Chronic kidney disease (CKD)
+590.00	Chronic pyelonephritis without lesion of renal medullary necrosis	590	Exclusion	Chronic kidney disease (CKD)
+590.01	Chronic pyelonephritis with lesion of renal medullary necrosis	590	Exclusion	Chronic kidney disease (CKD)
+590.1	Acute pyelonephritis	590	Exclusion	Chronic kidney disease (CKD)
+590.10	Acute pyelonephritis without lesion of renal medullary necrosis	590	Exclusion	Chronic kidney disease (CKD)
+590.11	Acute pyelonephritis with lesion of renal medullary necrosis	590	Exclusion	Chronic kidney disease (CKD)
+590.2	Renal and perinephric abscess	590	Exclusion	Chronic kidney disease (CKD)
+590.3	Pyeloureteritis cystica	590	Exclusion	Chronic kidney disease (CKD)
+590.8	Other pyelonephritis or pyonephrosis, not specified as acute or chronic	590	Exclusion	Chronic kidney disease (CKD)
+590.80	Pyelonephritis NOS	590	Exclusion	Chronic kidney disease (CKD)
+590.81	Pyelitis or pyelonephritis in diseases classified elsewhere	590	Exclusion	Chronic kidney disease (CKD)
+590.9	Infection of kidney NOS	590	Exclusion	Chronic kidney disease (CKD)
+593	Other disorders of kidney and ureter	586	Exclusion	Chronic kidney disease (CKD)
+593.0	Nephroptosis	586.1	Exclusion	Chronic kidney disease (CKD)
+593.1	Hypertrophy of kidney	586.3	Exclusion	Chronic kidney disease (CKD)
+593.2	Cyst of kidney, acquired	586.2	Exclusion	Chronic kidney disease (CKD)
+593.3	Stricture or kinking of ureter	586.4	Exclusion	Chronic kidney disease (CKD)
+593.4	Other ureteric obstruction	586.4	Exclusion	Chronic kidney disease (CKD)
+593.5	Hydroureter	586.4	Exclusion	Chronic kidney disease (CKD)
+593.7	Vesicoureteral reflux	586.12	Exclusion	Chronic kidney disease (CKD)
+593.70	Vesicoureteral reflux with reflux nephropathy, unspecified or without reflux nephropathy	586.12	Exclusion	Chronic kidney disease (CKD)
+593.71	Vesicoureteral reflux with reflux nephropathy, unilateral	586.12	Exclusion	Chronic kidney disease (CKD)
+593.72	Vesicoureteral reflux with reflux nephropathy, bilateral	586.12	Exclusion	Chronic kidney disease (CKD)
+593.73	Vesicoureteral reflux with reflux nephropathy NOS	586.12	Exclusion	Chronic kidney disease (CKD)
+593.8	Other specified disorders of kidney and ureter	586	Exclusion	Chronic kidney disease (CKD)
+593.81	Vascular disorders of kidney	586.3	Exclusion	Chronic kidney disease (CKD)
+593.82	Ureteral fistula	586.4	Exclusion	Chronic kidney disease (CKD)
+593.89	Other specified disorders of kidney and ureter	586	Exclusion	Chronic kidney disease (CKD)
+593.9	Unspecified disorder of kidney and ureter	586	Exclusion	Chronic kidney disease (CKD)
+792.5	Cloudy (hemodialysis) (peritoneal) dialysis effluent	585.31	Exclusion	Chronic kidney disease (CKD)
+794.4	Nonspecific abnormal results of function study of kidney	589	Exclusion	Chronic kidney disease (CKD)
+996.73	Other complications due to renal dialysis device, implant, and graft	585.31	Exclusion	Chronic kidney disease (CKD)
+996.81	Complications of transplanted kidney	587	Exclusion	Chronic kidney disease (CKD)
+E870.2	Accidental cut, puncture, perforation or hemorrhage during kidney dialysis or other perfusion	585.31	Exclusion	Chronic kidney disease (CKD)
+E871.2	Foreign object left in body during kidney dialysis or other perfusion	585.31	Exclusion	Chronic kidney disease (CKD)
+E872.2	Failure of sterile precautions during kidney dialysis and other perfusion	585.31	Exclusion	Chronic kidney disease (CKD)
+E874.2	Mechanical failure of instrument or apparatus during kidney dialysis and other perfusion	585.31	Exclusion	Chronic kidney disease (CKD)
+E879.1	Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure	585.31	Exclusion	Chronic kidney disease (CKD)
+V13.03	Personal history, nephrotic syndrome	580.2	Exclusion	Chronic kidney disease (CKD)
+V42.0	Kidney replaced by transplant	587	Exclusion	Chronic kidney disease (CKD)
+V45.1	Postsurgical renal dialysis status	585.31	Exclusion	Chronic kidney disease (CKD)
+V45.11	Renal dialysis status	585.31	Exclusion	Chronic kidney disease (CKD)
+V45.12	Noncompliance with renal dialysis	585.31	Exclusion	Chronic kidney disease (CKD)
+V56	Encounter for dialysis and dialysis catheter care	585.31	Exclusion	Chronic kidney disease (CKD)
+V56.0	Encounter for extracorporeal dialysis	585.31	Exclusion	Chronic kidney disease (CKD)
+V56.1	Fitting and adjustment of extracorporeal dialysis catheter	585.31	Exclusion	Chronic kidney disease (CKD)
+V56.2	Fitting and adjustment of peritoneal dialysis catheter	585.31	Exclusion	Chronic kidney disease (CKD)
+V56.31	Encounter for adequacy testing for hemodialysis	585.31	Exclusion	Chronic kidney disease (CKD)
+V56.32	Encounter for adequacy testing for peritoneal dialysis	585.31	Exclusion	Chronic kidney disease (CKD)
+V56.8	Encounter for other dialysis	585.31	Exclusion	Chronic kidney disease (CKD)
+411.81	Acute coronary occlusion without myocardial infarction	411.4	Inclusion	Coronary artery disease (CAD)
+414.0	Coronary atherosclerosis	411.4	Inclusion	Coronary artery disease (CAD)
+414.00	Coronary atherosclerosis of unspecified type of vessel, native or graft	411.4	Inclusion	Coronary artery disease (CAD)
+414.01	Coronary atherosclerosis of native coronary artery	411.4	Inclusion	Coronary artery disease (CAD)
+414.02	Coronary atherosclerosis of autologous biological bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
+414.03	Coronary atherosclerosis of nonautologous biological bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
+414.04	Coronary atherosclerosis of artery bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
+414.05	Coronary atherosclerosis of unspecified type of bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
+414.06	Coronary atherosclerosis of native coronary artery of transplanted heart	429.1	Inclusion	Coronary artery disease (CAD)
+414.07	Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart	429.1	Inclusion	Coronary artery disease (CAD)
+414.1	Aneurysm and dissection of heart	411.41	Inclusion	Coronary artery disease (CAD)
+414.10	Aneurysm of heart (wall)	411.41	Inclusion	Coronary artery disease (CAD)
+414.11	Aneurysm of coronary vessels	411.41	Inclusion	Coronary artery disease (CAD)
+414.12	Dissection of coronary artery	411.41	Inclusion	Coronary artery disease (CAD)
+414.19	Other aneurysm of heart	411.41	Inclusion	Coronary artery disease (CAD)
+414.2	Chronic total occlusion of coronary artery	411.4	Inclusion	Coronary artery disease (CAD)
+414.3	Coronary atherosclerosis due to lipid rich plaque	411.4	Inclusion	Coronary artery disease (CAD)
+414.4	Coronary atherosclerosis due to calcified coronary lesion	411.4	Inclusion	Coronary artery disease (CAD)
+996.03	Mechanical complication due to coronary bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
+V45.81	Postsurgical aortocoronary bypass status	411.4	Inclusion	Coronary artery disease (CAD)
+V45.82	Percutaneous transluminal coronary angioplasty, postsurgical status	411.4	Inclusion	Coronary artery disease (CAD)
+410	Acute myocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
+410.0	Acute myocardial infarction, of anterolateral wall	411.2	Exclusion	Coronary artery disease (CAD)
+410.00	Acute myocardial infarction, of anterolateral wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.01	Acute myocardial infarction, of anterolateral wall, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.02	Acute myocardial infarction, of anterolateral wall, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.1	Acute myocardial infarction, of other anterior wall	411.2	Exclusion	Coronary artery disease (CAD)
+410.10	Acute myocardial infarction, of other anterior wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.11	Acute myocardial infarction, of other anterior wall, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.12	Acute myocardial infarction, of other anterior wall, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.2	Acute myocardial infarction, of inferolateral wall	411.2	Exclusion	Coronary artery disease (CAD)
+410.20	Acute myocardial infarction, of inferolateral wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.21	Acute myocardial infarction, of inferolateral wall, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.22	Acute myocardial infarction, of inferolateral wall, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.3	Acute myocardial infarction, of inferoposterior wall	411.2	Exclusion	Coronary artery disease (CAD)
+410.30	Acute myocardial infarction, of inferoposterior wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.31	Acute myocardial infarction, of inferoposterior wall, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.32	Acute myocardial infarction, of inferoposterior wall, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.4	Acute myocardial infarction, of other inferior wall	411.2	Exclusion	Coronary artery disease (CAD)
+410.4	Acute myocardial infarction, of other inferior wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.41	Acute myocardial infarction, of other inferior wall, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.42	Acute myocardial infarction, of other inferior wall, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.5	Acute myocardial infarction, of other lateral wall	411.2	Exclusion	Coronary artery disease (CAD)
+410.50	Acute myocardial infarction, of other lateral wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.51	Acute myocardial infarction, of other lateral wall, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.52	Acute myocardial infarction, of other lateral wall, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.6	Acute myocardial infarction, true posterior wall infarction	411.2	Exclusion	Coronary artery disease (CAD)
+410.60	Acute myocardial infarction, true posterior wall infarction, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.61	Acute myocardial infarction, true posterior wall infarction, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.62	Acute myocardial infarction, true posterior wall infarction, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.7	Acute myocardial infarction, subendocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
+410.70	Acute myocardial infarction, subendocardial infarction, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.71	Acute myocardial infarction, subendocardial infarction, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.72	Acute myocardial infarction, subendocardial infarction, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.8	Acute myocardial infarction, of other specified sites	411.2	Exclusion	Coronary artery disease (CAD)
+410.80	Acute myocardial infarction, of other specified sites, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.81	Acute myocardial infarction, of other specified sites, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.82	Acute myocardial infarction, of other specified sites, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.9	Acute myocardial infarction, unspecified site	411.2	Exclusion	Coronary artery disease (CAD)
+410.90	Acute myocardial infarction, unspecified site, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+410.91	Acute myocardial infarction, unspecified site, initial episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+410.92	Acute myocardial infarction, unspecified site, subsequent episode of care	411.2	Exclusion	Coronary artery disease (CAD)
+411	Other acute and subacute forms of ischemic heart disease	411	Exclusion	Coronary artery disease (CAD)
+411.0	Postmyocardial infarction syndrome	411.2	Exclusion	Coronary artery disease (CAD)
+411.1	Intermediate coronary syndrome	411.1	Exclusion	Coronary artery disease (CAD)
+411.8	Other acute and subacute forms of ischemic heart disease	411.9	Exclusion	Coronary artery disease (CAD)
+411.81	Acute coronary occlusion without myocardial infarction	411.4	Exclusion	Coronary artery disease (CAD)
+411.89	Other acute and subacute forms of ischemic heart disease	411.9	Exclusion	Coronary artery disease (CAD)
+412	Old myocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
+413	Angina pectoris	411.3	Exclusion	Coronary artery disease (CAD)
+413.0	Angina decubitus	411.3	Exclusion	Coronary artery disease (CAD)
+413.1	Prinzmetal angina	411.3	Exclusion	Coronary artery disease (CAD)
+413.9	Other and unspecified angina pectoris	411.3	Exclusion	Coronary artery disease (CAD)
+414	Other forms of chronic ischemic heart disease	411.8	Exclusion	Coronary artery disease (CAD)
+414.0	Coronary atherosclerosis	411.4	Exclusion	Coronary artery disease (CAD)
+414.00	Coronary atherosclerosis of unspecified type of vessel, native or graft	411.4	Exclusion	Coronary artery disease (CAD)
+414.01	Coronary atherosclerosis of native coronary artery	411.4	Exclusion	Coronary artery disease (CAD)
+414.02	Coronary atherosclerosis of autologous biological bypass graft	411.4	Exclusion	Coronary artery disease (CAD)
+414.03	Coronary atherosclerosis of nonautologous biological bypass graft	411.4	Exclusion	Coronary artery disease (CAD)
+414.04	Coronary atherosclerosis of artery bypass graft	411.4	Exclusion	Coronary artery disease (CAD)
+414.05	Coronary atherosclerosis of unspecified type of bypass graft	411.4	Exclusion	Coronary artery disease (CAD)
+414.1	Aneurysm and dissection of heart	411.41	Exclusion	Coronary artery disease (CAD)
+414.10	Aneurysm of heart (wall)	411.41	Exclusion	Coronary artery disease (CAD)
+414.11	Aneurysm of coronary vessels	411.41	Exclusion	Coronary artery disease (CAD)
+414.12	Dissection of coronary artery	411.41	Exclusion	Coronary artery disease (CAD)
+414.19	Other aneurysm of heart	411.41	Exclusion	Coronary artery disease (CAD)
+414.2	Chronic total occlusion of coronary artery	411.4	Exclusion	Coronary artery disease (CAD)
+414.3	Coronary atherosclerosis due to lipid rich plaque	411.4	Exclusion	Coronary artery disease (CAD)
+414.4	Coronary atherosclerosis due to calcified coronary lesion	411.4	Exclusion	Coronary artery disease (CAD)
+414.8	Other specified forms of chronic ischemic heart disease	411.8	Exclusion	Coronary artery disease (CAD)
+414.9	Chronic ischemic heart disease, unspecified	411.8	Exclusion	Coronary artery disease (CAD)
+429	Ill-defined descriptions and complications of heart disease	414	Exclusion	Coronary artery disease (CAD)
+429.1	Myocardial degeneration	414	Exclusion	Coronary artery disease (CAD)
+429.2	Cardiovascular disease [ASCVD]	414.2	Exclusion	Coronary artery disease (CAD)
+429.5	Rupture of chordae tendineae	414	Exclusion	Coronary artery disease (CAD)
+429.6	Rupture of papillary muscle	414	Exclusion	Coronary artery disease (CAD)
+429.7	Certain sequelae of myocardial infarction, not elsewhere classified	411.2	Exclusion	Coronary artery disease (CAD)
+429.71	Cardiac septal defect, sequela of myocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
+429.79	Other sequelae of myocardial infarction, not elsewhere classified	411.2	Exclusion	Coronary artery disease (CAD)
+429.8	Other ill-defined heart diseases	414	Exclusion	Coronary artery disease (CAD)
+429.89	Other ill-defined heart diseases	414	Exclusion	Coronary artery disease (CAD)
+429.9	Heart disease NOS	414	Exclusion	Coronary artery disease (CAD)
+996.03	Mechanical complication due to coronary bypass graft	411.4	Exclusion	Coronary artery disease (CAD)
+V45.81	Postsurgical aortocoronary bypass status	411.4	Exclusion	Coronary artery disease (CAD)
+V45.82	Percutaneous transluminal coronary angioplasty, postsurgical status	411.4	Exclusion	Coronary artery disease (CAD)
+365.	Glaucoma	365	Inclusion	Glaucoma
+365.0	Borderline glaucoma [glaucoma suspect]	365	Inclusion	Glaucoma
+365.00	Preglaucoma, unspecified	365	Inclusion	Glaucoma
+365.01	Open angle with borderline glaucoma findings	365.1	Inclusion	Glaucoma
+365.02	Anatomical narrow angle borderline glaucoma	365.2	Inclusion	Glaucoma
+365.03	Steroid responders borderline glaucoma	365	Inclusion	Glaucoma
+365.04	Ocular hypertension	365	Inclusion	Glaucoma
+365.05	Open angle with borderline findings, high risk	365	Inclusion	Glaucoma
+365.06	Primary angle closure without glaucoma damage	365	Inclusion	Glaucoma
+365.1	Open-angle glaucoma	365.1	Inclusion	Glaucoma
+365.10	Open-angle glaucoma NOS	365.1	Inclusion	Glaucoma
+365.11	Primary open angle glaucoma	365.11	Inclusion	Glaucoma
+365.12	Low tension glaucoma	365.1	Inclusion	Glaucoma
+365.13	Pigmentary glaucoma	365.1	Inclusion	Glaucoma
+365.14	Glaucoma of childhood	365.1	Inclusion	Glaucoma
+365.15	Residual stage of open angle glaucoma	365.1	Inclusion	Glaucoma
+365.2	Primary angle-closure glaucoma	365.2	Inclusion	Glaucoma
+365.20	Primary angle-closure glaucoma, unspecified	365.2	Inclusion	Glaucoma
+365.21	Intermittent angle-closure glaucoma	365.2	Inclusion	Glaucoma
+365.22	Acute angle-closure glaucoma	365.2	Inclusion	Glaucoma
+365.23	Chronic angle-closure glaucoma	365.2	Inclusion	Glaucoma
+365.24	Residual stage of angle-closure glaucoma	365.2	Inclusion	Glaucoma
+365.3	Corticosteroid-induced glaucoma	365	Inclusion	Glaucoma
+365.31	Corticosteroid-induced glaucoma, glaucomatous stage	365	Inclusion	Glaucoma
+365.32	Corticosteroid-induced glaucoma, residual stage	365	Inclusion	Glaucoma
+365.4	Glaucoma associated with congenital anomalies, dystrophies, and systemic syndromes	365	Inclusion	Glaucoma
+365.41	Glaucoma associated with chamber angle anomalies	365	Inclusion	Glaucoma
+365.42	Glaucoma associated with anomalies of iris	365	Inclusion	Glaucoma
+365.43	Glaucoma associated with other anterior segment anomalies	365	Inclusion	Glaucoma
+365.44	Glaucoma associated with systemic syndromes	365	Inclusion	Glaucoma
+365.5	Glaucoma associated with disorders of the lens	365	Inclusion	Glaucoma
+365.51	Phacolytic glaucoma	365	Inclusion	Glaucoma
+365.52	Pseudoexfoliation glaucoma	365.5	Inclusion	Glaucoma
+365.59	Glaucoma associated with other lens disorders	365	Inclusion	Glaucoma
+365.6	Glaucoma associated with other ocular disorders	365	Inclusion	Glaucoma
+365.60	Glaucoma associated with unspecified ocular disorder	365	Inclusion	Glaucoma
+365.61	Glaucoma associated with pupillary block	365	Inclusion	Glaucoma
+365.62	Glaucoma associated with ocular inflammations	365	Inclusion	Glaucoma
+365.63	Glaucoma associated with vascular disorders	365	Inclusion	Glaucoma
+365.64	Glaucoma associated with tumors or cysts	365	Inclusion	Glaucoma
+365.65	Glaucoma associated with ocular trauma	365	Inclusion	Glaucoma
+365.7	Glaucoma stage	365	Inclusion	Glaucoma
+365.70	Glaucoma stage, unspecified	365	Inclusion	Glaucoma
+365.71	Mild stage glaucoma	365	Inclusion	Glaucoma
+365.72	Moderate stage glaucoma	365	Inclusion	Glaucoma
+365.73	Severe stage glaucoma	365	Inclusion	Glaucoma
+365.74	Indeterminate stage glaucoma	365	Inclusion	Glaucoma
+365.8	Other specified forms of glaucoma	365	Inclusion	Glaucoma
+365.81	Hypersecretion glaucoma	365	Inclusion	Glaucoma
+365.82	Glaucoma with increased episcleral venous pressure	365	Inclusion	Glaucoma
+365.83	Aqueous misdirection	365	Inclusion	Glaucoma
+365.89	Other specified glaucoma	365	Inclusion	Glaucoma
+365.9	Glaucoma NOS	365	Inclusion	Glaucoma
+360	Disorders of the globe	360	Exclusion	Glaucoma
+360.2	Degenerative disorders of globe	360	Exclusion	Glaucoma
+360.20	Degenerative disorder of globe, unspecified	360	Exclusion	Glaucoma
+360.21	Progressive high (degenerative) myopia	360.2	Exclusion	Glaucoma
+360.23	Siderosis	360	Exclusion	Glaucoma
+360.24	Other metallosis, eye	360	Exclusion	Glaucoma
+360.29	Other degenerative disorders of globe	360	Exclusion	Glaucoma
+360.3	Hypotony of eye	360.3	Exclusion	Glaucoma
+360.30	Hypotony NOS, eye	360.3	Exclusion	Glaucoma
+360.31	Primary hypotony of eye	360.3	Exclusion	Glaucoma
+360.32	Ocular fistula causing hypotony	360.3	Exclusion	Glaucoma
+360.33	Hypotony associated with other ocular disorders	360.3	Exclusion	Glaucoma
+360.34	Flat anterior chamber of eye	360.3	Exclusion	Glaucoma
+360.4	Degenerated conditions of globe	360	Exclusion	Glaucoma
+360.40	Degenerated globe or eye, unspecified	360	Exclusion	Glaucoma
+360.41	Blind hypotensive eye	360	Exclusion	Glaucoma
+360.42	Blind hypertensive eye	360.3	Exclusion	Glaucoma
+360.43	Hemophthalmos, except current injury	360	Exclusion	Glaucoma
+360.44	Leucocoria	360	Exclusion	Glaucoma
+360.8	Other disorders of globe	360	Exclusion	Glaucoma
+360.81	Luxation of globe	360	Exclusion	Glaucoma
+360.89	Other disorders of globe	360	Exclusion	Glaucoma
+360.9	Disorder of globe NOS	360	Exclusion	Glaucoma
+361	Retinal detachments and defects	361	Exclusion	Glaucoma
+361.0	Retinal detachment with retinal defect	361.1	Exclusion	Glaucoma
+361.00	Retinal detachment with retinal defect, unspecified	361.1	Exclusion	Glaucoma
+361.01	Recent retinal detachment, partial, with single defect	361.1	Exclusion	Glaucoma
+361.02	Recent retinal detachment, partial, with multiple defects	361.1	Exclusion	Glaucoma
+361.03	Recent retinal detachment, partial, with giant tear	361.1	Exclusion	Glaucoma
+361.04	Recent retinal detachment, partial, with retinal dialysis	361.1	Exclusion	Glaucoma
+361.05	Recent retinal detachment, total or subtotal	361.1	Exclusion	Glaucoma
+361.06	Old retinal detachment, partial	361.1	Exclusion	Glaucoma
+361.07	Old retinal detachment, total or subtotal	361.1	Exclusion	Glaucoma
+361.1	Retinoschisis and retinal cysts	361.2	Exclusion	Glaucoma
+361.10	Retinoschisis NOS	361.2	Exclusion	Glaucoma
+361.11	Flat retinoschisis	361.2	Exclusion	Glaucoma
+361.12	Bullous retinoschisis	361.2	Exclusion	Glaucoma
+361.13	Primary retinal cysts	361.2	Exclusion	Glaucoma
+361.14	Secondary retinal cysts	361.2	Exclusion	Glaucoma
+361.19	Other retinoschisis and retinal cysts	361.2	Exclusion	Glaucoma
+361.2	Serous retinal detachment	361	Exclusion	Glaucoma
+361.3	Retinal defects without detachment	361	Exclusion	Glaucoma
+361.30	Retinal defect NOS	361	Exclusion	Glaucoma
+361.31	Round hole of retina without detachment	361	Exclusion	Glaucoma
+361.32	Horseshoe tear of retina without detachment	361	Exclusion	Glaucoma
+361.33	Multiple defects of retina without detachment	361	Exclusion	Glaucoma
+361.8	Other forms of retinal detachment	361	Exclusion	Glaucoma
+361.81	Traction detachment of retina	361	Exclusion	Glaucoma
+361.89	Other forms of retinal detachment	361	Exclusion	Glaucoma
+361.9	Retinal detachment NOS	361	Exclusion	Glaucoma
+362	Other retinal disorders	362	Exclusion	Glaucoma
+362.1	Other background retinopathy and retinal vascular changes	362.4	Exclusion	Glaucoma
+362.10	Background retinopathy, unspecified	362.3	Exclusion	Glaucoma
+362.11	Hypertensive retinopathy	362.3	Exclusion	Glaucoma
+362.12	Exudative retinopathy	362.3	Exclusion	Glaucoma
+362.13	Changes in vascular appearance of retina	362.4	Exclusion	Glaucoma
+362.14	Retinal microaneurysms NOS	362.4	Exclusion	Glaucoma
+362.15	Retinal telangiectasia	362.4	Exclusion	Glaucoma
+362.16	Retinal neovascularization NOS	362.4	Exclusion	Glaucoma
+362.17	Other intraretinal microvascular abnormalities	362.4	Exclusion	Glaucoma
+362.18	Retinal vasculitis	362.4	Exclusion	Glaucoma
+362.2	Other proliferative retinopathy	362.3	Exclusion	Glaucoma
+362.20	Retinopathy of prematurity, unspecified	362.1	Exclusion	Glaucoma
+362.21	Retrolental fibroplasia	362.1	Exclusion	Glaucoma
+362.22	Retinopathy of prematurity, stage 0	362.1	Exclusion	Glaucoma
+362.23	Retinopathy of prematurity, stage 1	362.1	Exclusion	Glaucoma
+362.24	Retinopathy of prematurity, stage 2	362.1	Exclusion	Glaucoma
+362.25	Retinopathy of prematurity, stage 3	362.1	Exclusion	Glaucoma
+362.26	Retinopathy of prematurity, stage 4	362.1	Exclusion	Glaucoma
+362.27	Retinopathy of prematurity, stage 5	362.1	Exclusion	Glaucoma
+362.29	Other nondiabetic proliferative retinopathy	362.3	Exclusion	Glaucoma
+362.3	Retinal vascular occlusion	362.4	Exclusion	Glaucoma
+362.30	Retinal vascular occlusion, unspecified	362.4	Exclusion	Glaucoma
+362.31	Central retinal artery occlusion	362.4	Exclusion	Glaucoma
+362.32	Retinal arterial branch occlusion	362.4	Exclusion	Glaucoma
+362.33	Partial retinal arterial occlusion	362.4	Exclusion	Glaucoma
+362.34	Transient retinal arterial occlusion	362.4	Exclusion	Glaucoma
+362.35	Central retinal vein occlusion	362.4	Exclusion	Glaucoma
+362.36	Venous tributary (branch) occlusion of retina	362.4	Exclusion	Glaucoma
+362.37	Venous engorgement of retina	362.4	Exclusion	Glaucoma
+362.4	Separation of retinal layers	362.31	Exclusion	Glaucoma
+362.40	Retinal layer separation, unspecified	362.31	Exclusion	Glaucoma
+362.41	Central serous retinopathy	362.31	Exclusion	Glaucoma
+362.42	Serous detachment of retinal pigment epithelium	362.31	Exclusion	Glaucoma
+362.43	Hemorrhagic detachment of retinal pigment epithelium	362.31	Exclusion	Glaucoma
+362.5	Degeneration of macula and posterior pole of retina	362.2	Exclusion	Glaucoma
+362.50	Macular degeneration (senile) of retina NOS	362.29	Exclusion	Glaucoma
+362.51	Nonexudative senile macular degeneration of retina	362.21	Exclusion	Glaucoma
+362.52	Exudative senile macular degeneration of retina	362.22	Exclusion	Glaucoma
+362.53	Cystoid macular degeneration of retina	362.23	Exclusion	Glaucoma
+362.54	Macular cyst, hole, or pseudohole of retina	362.23	Exclusion	Glaucoma
+362.55	Toxic maculopathy of retina	362.5	Exclusion	Glaucoma
+362.56	Macular puckering of retina	362.26	Exclusion	Glaucoma
+362.57	Drusen (degenerative) of retina	362.27	Exclusion	Glaucoma
+362.6	Peripheral retinal degenerations	362.6	Exclusion	Glaucoma
+362.60	Peripheral retinal degeneration, unspecified	362.6	Exclusion	Glaucoma
+362.61	Paving stone degeneration of retina	362.6	Exclusion	Glaucoma
+362.62	Microcystoid degeneration of retina	362.6	Exclusion	Glaucoma
+362.63	Lattice degeneration of retina	362.6	Exclusion	Glaucoma
+362.64	Senile reticular degeneration of retina	362.6	Exclusion	Glaucoma
+362.65	Secondary pigmentary degeneration of retina	362.6	Exclusion	Glaucoma
+362.66	Secondary vitreoretinal degenerations	362.6	Exclusion	Glaucoma
+362.7	Hereditary retinal dystrophies	362.7	Exclusion	Glaucoma
+362.70	Hereditary retinal dystrophy, unspecified	362.7	Exclusion	Glaucoma
+362.71	Retinal dystrophy in systemic or cerebroretinal lipidoses	362.7	Exclusion	Glaucoma
+362.72	Retinal dystrophy in other systemic disorders and syndromes	362.7	Exclusion	Glaucoma
+362.73	Vitreoretinal dystrophy	362.7	Exclusion	Glaucoma
+362.74	Pigmentary retinal dystrophy	362.7	Exclusion	Glaucoma
+362.75	Other dystrophies primarily involving the sensory retina	362.7	Exclusion	Glaucoma
+362.76	Dystrophies primarily involving the retinal pigment epithelium	362.7	Exclusion	Glaucoma
+362.77	Retinal dystrophies primarily involving Bruchs membrane	362.7	Exclusion	Glaucoma
+362.8	Other retinal disorders	362	Exclusion	Glaucoma
+362.81	Retinal hemorrhage	362.8	Exclusion	Glaucoma
+362.82	Retinal exudates and deposits	362	Exclusion	Glaucoma
+362.83	Retinal edema	362.9	Exclusion	Glaucoma
+362.84	Retinal ischemia	362.8	Exclusion	Glaucoma
+362.85	Retinal nerve fiber bundle defects	362	Exclusion	Glaucoma
+362.89	Retinal disorders NEC	362	Exclusion	Glaucoma
+362.9	Retinal disorder NOS	362	Exclusion	Glaucoma
+363	Chorioretinal inflammations, scars, and other disorders of choroid	363	Exclusion	Glaucoma
+363.3	Chorioretinal scars	363.3	Exclusion	Glaucoma
+363.30	Chorioretinal scar, unspecified	363.3	Exclusion	Glaucoma
+363.31	Solar retinopathy	363.3	Exclusion	Glaucoma
+363.32	Other macular scars of retina	363.3	Exclusion	Glaucoma
+363.33	Other scars of posterior pole of retina	363.3	Exclusion	Glaucoma
+363.34	Peripheral scars of retina	363.3	Exclusion	Glaucoma
+363.35	Disseminated scars of retina	363.3	Exclusion	Glaucoma
+363.4	Choroidal degenerations	363.4	Exclusion	Glaucoma
+363.40	Choroidal degeneration, unspecified	363.4	Exclusion	Glaucoma
+363.41	Senile atrophy of choroid	363.4	Exclusion	Glaucoma
+363.42	Diffuse secondary atrophy of choroid	363.4	Exclusion	Glaucoma
+363.43	Angioid streaks of choroid	363.4	Exclusion	Glaucoma
+363.5	Hereditary choroidal dystrophies	363.4	Exclusion	Glaucoma
+363.50	Hereditary choroidal dystrophy or atrophy, unspecified	363.4	Exclusion	Glaucoma
+363.51	Circumpapillary dystrophy of choroid, partial	363.4	Exclusion	Glaucoma
+363.52	Circumpapillary dystrophy of choroid, total	363.4	Exclusion	Glaucoma
+363.53	Central dystrophy of choroid, partial	363.4	Exclusion	Glaucoma
+363.54	Central choroidal atrophy, total	363.4	Exclusion	Glaucoma
+363.55	Choroideremia	363.4	Exclusion	Glaucoma
+363.56	Other diffuse or generalized dystrophy of choroid, partial	363.4	Exclusion	Glaucoma
+363.57	Other diffuse or generalized dystrophy of choroid, total	363.4	Exclusion	Glaucoma
+363.6	Choroidal hemorrhage and rupture	363	Exclusion	Glaucoma
+363.61	Choroidal hemorrhage, unspecified	363	Exclusion	Glaucoma
+363.62	Expulsive choroidal hemorrhage	363	Exclusion	Glaucoma
+363.63	Choroidal rupture	363	Exclusion	Glaucoma
+363.7	Choroidal detachment	363	Exclusion	Glaucoma
+363.70	Choroidal detachment, unspecified	363	Exclusion	Glaucoma
+363.71	Serous choroidal detachment	363	Exclusion	Glaucoma
+363.72	Hemorrhagic choroidal detachment	363	Exclusion	Glaucoma
+363.8	Other disorders of choroid	363	Exclusion	Glaucoma
+363.9	Unspecified disorder of choroid	363	Exclusion	Glaucoma
+365	Glaucoma	365	Exclusion	Glaucoma
+365.0	Borderline glaucoma [glaucoma suspect]	365	Exclusion	Glaucoma
+365.00	Preglaucoma, unspecified	365	Exclusion	Glaucoma
+365.01	Open angle with borderline glaucoma findings	365.1	Exclusion	Glaucoma
+365.02	Anatomical narrow angle borderline glaucoma	365.2	Exclusion	Glaucoma
+365.03	Steroid responders borderline glaucoma	365	Exclusion	Glaucoma
+365.04	Ocular hypertension	365	Exclusion	Glaucoma
+365.05	Open angle with borderline findings, high risk	365	Exclusion	Glaucoma
+365.06	Primary angle closure without glaucoma damage	365	Exclusion	Glaucoma
+365.1	Open-angle glaucoma	365.1	Exclusion	Glaucoma
+365.10	Open-angle glaucoma NOS	365.1	Exclusion	Glaucoma
+365.11	Primary open angle glaucoma	365.11	Exclusion	Glaucoma
+365.12	Low tension glaucoma	365.1	Exclusion	Glaucoma
+365.13	Pigmentary glaucoma	365.1	Exclusion	Glaucoma
+365.14	Glaucoma of childhood	365.1	Exclusion	Glaucoma
+365.15	Residual stage of open angle glaucoma	365.1	Exclusion	Glaucoma
+365.2	Primary angle-closure glaucoma	365.2	Exclusion	Glaucoma
+365.20	Primary angle-closure glaucoma, unspecified	365.2	Exclusion	Glaucoma
+365.21	Intermittent angle-closure glaucoma	365.2	Exclusion	Glaucoma
+365.22	Acute angle-closure glaucoma	365.2	Exclusion	Glaucoma
+365.23	Chronic angle-closure glaucoma	365.2	Exclusion	Glaucoma
+365.24	Residual stage of angle-closure glaucoma	365.2	Exclusion	Glaucoma
+365.3	Corticosteroid-induced glaucoma	365	Exclusion	Glaucoma
+365.31	Corticosteroid-induced glaucoma, glaucomatous stage	365	Exclusion	Glaucoma
+365.32	Corticosteroid-induced glaucoma, residual stage	365	Exclusion	Glaucoma
+365.4	Glaucoma associated with congenital anomalies, dystrophies, and systemic syndromes	365	Exclusion	Glaucoma
+365.41	Glaucoma associated with chamber angle anomalies	365	Exclusion	Glaucoma
+365.42	Glaucoma associated with anomalies of iris	365	Exclusion	Glaucoma
+365.43	Glaucoma associated with other anterior segment anomalies	365	Exclusion	Glaucoma
+365.44	Glaucoma associated with systemic syndromes	365	Exclusion	Glaucoma
+365.5	Glaucoma associated with disorders of the lens	365	Exclusion	Glaucoma
+365.51	Phacolytic glaucoma	365	Exclusion	Glaucoma
+365.52	Pseudoexfoliation glaucoma	365.5	Exclusion	Glaucoma
+365.59	Glaucoma associated with other lens disorders	365	Exclusion	Glaucoma
+365.6	Glaucoma associated with other ocular disorders	365	Exclusion	Glaucoma
+365.60	Glaucoma associated with unspecified ocular disorder	365	Exclusion	Glaucoma
+365.61	Glaucoma associated with pupillary block	365	Exclusion	Glaucoma
+365.62	Glaucoma associated with ocular inflammations	365	Exclusion	Glaucoma
+365.63	Glaucoma associated with vascular disorders	365	Exclusion	Glaucoma
+365.64	Glaucoma associated with tumors or cysts	365	Exclusion	Glaucoma
+365.65	Glaucoma associated with ocular trauma	365	Exclusion	Glaucoma
+365.7	Glaucoma stage	365	Exclusion	Glaucoma
+365.70	Glaucoma stage, unspecified	365	Exclusion	Glaucoma
+365.71	Mild stage glaucoma	365	Exclusion	Glaucoma
+365.72	Moderate stage glaucoma	365	Exclusion	Glaucoma
+365.73	Severe stage glaucoma	365	Exclusion	Glaucoma
+365.74	Indeterminate stage glaucoma	365	Exclusion	Glaucoma
+365.8	Other specified forms of glaucoma	365	Exclusion	Glaucoma
+365.81	Hypersecretion glaucoma	365	Exclusion	Glaucoma
+365.82	Glaucoma with increased episcleral venous pressure	365	Exclusion	Glaucoma
+365.83	Aqueous misdirection	365	Exclusion	Glaucoma
+365.89	Other specified glaucoma	365	Exclusion	Glaucoma
+365.9	Glaucoma NOS	365	Exclusion	Glaucoma
+371	Corneal opacity and other disorders of cornea	364	Exclusion	Glaucoma
+371.0	Corneal scars and opacities	364	Exclusion	Glaucoma
+371.00	Corneal opacity NOS	364.1	Exclusion	Glaucoma
+371.01	Minor opacity of cornea	364.1	Exclusion	Glaucoma
+371.02	Peripheral opacity of cornea	364.1	Exclusion	Glaucoma
+371.03	Central opacity of cornea	364.1	Exclusion	Glaucoma
+371.04	Adherent leucoma	364.1	Exclusion	Glaucoma
+371.05	Phthisical cornea	364.1	Exclusion	Glaucoma
+371.1	Corneal pigmentations and deposits	364	Exclusion	Glaucoma
+371.10	Corneal deposit, unspecified	364	Exclusion	Glaucoma
+371.11	Anterior corneal pigmentations	364	Exclusion	Glaucoma
+371.12	Stromal corneal pigmentations	364	Exclusion	Glaucoma
+371.13	Posterior corneal pigmentations	364	Exclusion	Glaucoma
+371.14	Kayser-Fleischer ring	364	Exclusion	Glaucoma
+371.15	Other corneal deposits associated with metabolic disorders	364	Exclusion	Glaucoma
+371.16	Argentous corneal deposits	364	Exclusion	Glaucoma
+371.2	Corneal edema	364.2	Exclusion	Glaucoma
+371.20	Corneal edema NOS	364.2	Exclusion	Glaucoma
+371.21	Idiopathic corneal edema	364.2	Exclusion	Glaucoma
+371.22	Secondary corneal edema	364.2	Exclusion	Glaucoma
+371.23	Bullous keratopathy	364.2	Exclusion	Glaucoma
+371.24	Corneal edema due to wearing of contact lenses	364	Exclusion	Glaucoma
+371.3	Changes of corneal membranes	364	Exclusion	Glaucoma
+371.30	Corneal membrane change, unspecified	364	Exclusion	Glaucoma
+371.31	Folds and rupture of Bowmans membrane	364	Exclusion	Glaucoma
+371.32	Folds in Descemets membrane	364	Exclusion	Glaucoma
+371.33	Rupture in Descemets membrane	364	Exclusion	Glaucoma
+371.4	Corneal degenerations	364.4	Exclusion	Glaucoma
+371.40	Corneal degeneration, unspecified	364.4	Exclusion	Glaucoma
+371.41	Senile corneal changes	364.4	Exclusion	Glaucoma
+371.42	Recurrent erosion of cornea	364.4	Exclusion	Glaucoma
+371.43	Band-shaped keratopathy	364.4	Exclusion	Glaucoma
+371.44	Other calcerous degenerations of cornea	364.4	Exclusion	Glaucoma
+371.45	Keratomalacia NOS	364.4	Exclusion	Glaucoma
+371.46	Nodular degeneration of cornea	364.4	Exclusion	Glaucoma
+371.48	Peripheral degenerations of cornea	364.4	Exclusion	Glaucoma
+371.49	Other corneal degenerations	364.4	Exclusion	Glaucoma
+371.5	Hereditary corneal dystrophies	364.5	Exclusion	Glaucoma
+371.50	Corneal dystrophy NOS	364.5	Exclusion	Glaucoma
+371.51	Juvenile epithelial corneal dystrophy	364.5	Exclusion	Glaucoma
+371.52	Other anterior corneal dystrophies	364.5	Exclusion	Glaucoma
+371.53	Granular corneal dystrophy	364.5	Exclusion	Glaucoma
+371.54	Lattice corneal dystrophy	364.5	Exclusion	Glaucoma
+371.55	Macular corneal dystrophy	364.5	Exclusion	Glaucoma
+371.56	Other stromal corneal dystrophies	364.5	Exclusion	Glaucoma
+371.57	Endothelial corneal dystrophy	364.51	Exclusion	Glaucoma
+371.58	Other posterior corneal dystrophies	364.5	Exclusion	Glaucoma
+371.6	Keratoconus	364.41	Exclusion	Glaucoma
+371.60	Keratoconus NOS	364.41	Exclusion	Glaucoma
+371.61	Keratoconus, stable condition	364.41	Exclusion	Glaucoma
+371.62	Keratoconus, acute hydrops	364.41	Exclusion	Glaucoma
+371.7	Other corneal deformities	364	Exclusion	Glaucoma
+371.70	Corneal deformity, unspecified	364	Exclusion	Glaucoma
+371.71	Corneal ectasia	364	Exclusion	Glaucoma
+371.72	Descemetocele	364	Exclusion	Glaucoma
+371.73	Corneal staphyloma	364	Exclusion	Glaucoma
+371.8	Other corneal disorders	364	Exclusion	Glaucoma
+371.81	Corneal anesthesia and hypoesthesia	364	Exclusion	Glaucoma
+371.82	Corneal disorder due to contact lens	364	Exclusion	Glaucoma
+371.89	Other corneal disorders	364	Exclusion	Glaucoma
+371.9	Unspecified corneal disorder	364	Exclusion	Glaucoma
+374.53	Hypopigmentation of eyelid	360	Exclusion	Glaucoma
+V42.5	Cornea replaced by transplant	364.9	Exclusion	Glaucoma
+272.0	Pure hypercholesterolemia	272.11	Inclusion	Hypercholesterolemia (HCL)
+272	Disorders of lipoid metabolism	272	Exclusion	Hypercholesterolemia (HCL)
+272.0	Pure hypercholesterolemia	272.11	Exclusion	Hypercholesterolemia (HCL)
+272.1	Pure hyperglyceridemia	272.12	Exclusion	Hypercholesterolemia (HCL)
+272.2	Mixed hyperlipidemia	272.13	Exclusion	Hypercholesterolemia (HCL)
+272.3	Hyperchylomicronemia	272.14	Exclusion	Hypercholesterolemia (HCL)
+272.4	Other and unspecified hyperlipidemia	272.1	Exclusion	Hypercholesterolemia (HCL)
+272.9	Unspecified disorder of lipoid metabolism	272.9	Exclusion	Hypercholesterolemia (HCL)
+278.00	Obesity NOS	278.1	Inclusion	Obesity
+793.91	Image test inconclusive due to excess body fat	278.1	Inclusion	Obesity
+V85.3	Body Mass Index between 30-39, adult	278.1	Inclusion	Obesity
+V85.30	Body Mass Index 30.0-30.9, adult	278.1	Inclusion	Obesity
+V85.31	Body Mass Index 31.0-31.9, adult	278.1	Inclusion	Obesity
+V85.32	Body Mass Index 32.0-32.9, adult	278.1	Inclusion	Obesity
+V85.33	Body Mass Index 33.0-33.9, adult	278.1	Inclusion	Obesity
+V85.34	Body Mass Index 34.0-34.9, adult	278.1	Inclusion	Obesity
+V85.35	Body Mass Index 35.0-35.9, adult	278.1	Inclusion	Obesity
+V85.36	Body Mass Index 36.0-36.9, adult	278.1	Inclusion	Obesity
+V85.37	Body Mass Index 37.0-37.9, adult	278.1	Inclusion	Obesity
+V85.38	Body Mass Index 38.0-38.9, adult	278.1	Inclusion	Obesity
+V85.39	Body Mass Index 39.0-39.9, adult	278.1	Inclusion	Obesity
+V85.4	Body Mass Index 40 and over, adult	278.11	Inclusion	Obesity
+V85.41	Body mass index 40.0-44.9, adult	278.11	Inclusion	Obesity
+V85.42	Body mass index 45.0-49.9, adult	278.11	Inclusion	Obesity
+V85.43	Body mass index 50.0-59.9, adult	278.11	Inclusion	Obesity
+V85.44	Body mass index 60.0-69.9, adult	278.11	Inclusion	Obesity
+V85.45	Body mass index 70 and over, adult	278.11	Inclusion	Obesity
+V85.54	Body Mass Index, pediatric, greater than or equal to 95th percentile for age	278.1	Inclusion	Obesity
+278	Overweight, obesity and other hyperalimentation	278	Exclusion	Obesity
+278.0	Overweight and obesity	278	Exclusion	Obesity
+278.00	Obesity NOS	278.1	Exclusion	Obesity
+278.01	Morbid obesity	278.11	Exclusion	Obesity
+278.02	Overweight	278	Exclusion	Obesity
+278.1	Localized adiposity	278.3	Exclusion	Obesity
+278.2	Hypervitaminosis A	278	Exclusion	Obesity
+278.3	Hypercarotinemia	278	Exclusion	Obesity
+278.4	Hypervitaminosis D	278	Exclusion	Obesity
+278.8	Other hyperalimentation	278	Exclusion	Obesity
+783.1	Abnormal weight gain	278.4	Exclusion	Obesity
+793.91	Image test inconclusive due to excess body fat	278.1	Exclusion	Obesity
+V85.2	Body mass index between 25-29	278.1	Exclusion	Obesity
+V85.21	Body Mass Index 25.0-25.9, adult	278	Exclusion	Obesity
+V85.22	Body Mass Index 26.0-26.9, adult	278	Exclusion	Obesity
+V85.23	Body Mass Index 27.0-27.9, adult	278	Exclusion	Obesity
+V85.24	Body Mass Index 28.0-28.9, adult	278	Exclusion	Obesity
+V85.25	Body Mass Index 29.0-29.9, adult	278	Exclusion	Obesity
+V85.3	Body Mass Index between 30-39, adult	278.1	Exclusion	Obesity
+V85.30	Body Mass Index 30.0-30.9, adult	278.1	Exclusion	Obesity
+V85.31	Body Mass Index 31.0-31.9, adult	278.1	Exclusion	Obesity
+V85.32	Body Mass Index 32.0-32.9, adult	278.1	Exclusion	Obesity
+V85.33	Body Mass Index 33.0-33.9, adult	278.1	Exclusion	Obesity
+V85.34	Body Mass Index 34.0-34.9, adult	278.1	Exclusion	Obesity
+V85.35	Body Mass Index 35.0-35.9, adult	278.11	Exclusion	Obesity
+V85.36	Body Mass Index 36.0-36.9, adult	278.11	Exclusion	Obesity
+V85.37	Body Mass Index 37.0-37.9, adult	278.11	Exclusion	Obesity
+V85.38	Body Mass Index 38.0-38.9, adult	278.11	Exclusion	Obesity
+V85.39	Body Mass Index 39.0-39.9, adult	278.11	Exclusion	Obesity
+V85.4	Body Mass Index 40 and over, adult	278.11	Exclusion	Obesity
+V85.41	Body mass index 40.0-44.9, adult	278.11	Exclusion	Obesity
+V85.42	Body mass index 45.0-49.9, adult	278.11	Exclusion	Obesity
+V85.43	Body mass index 50.0-59.9, adult	278.11	Exclusion	Obesity
+V85.44	Body mass index 60.0-69.9, adult	278.11	Exclusion	Obesity
+V85.45	Body mass index 70 and over, adult	278.11	Exclusion	Obesity
+V85.53	Body Mass Index, pediatric, 85th percentile to less than 95th percentile for age	278	Exclusion	Obesity
+V85.54	Body Mass Index, pediatric, greater than or equal to 95th percentile for age	278.1	Exclusion	Obesity
+185	Malignant neoplasm of prostate	185	Inclusion	Prostate cancer (PCa)
+233.4	Carcinoma in situ of prostate	185	Inclusion	Prostate cancer (PCa)
+V10.46	Personal history of malignant neoplasm of prostate	185	Inclusion	Prostate cancer (PCa)
+185	Malignant neoplasm of prostate	185	Exclusion	Prostate cancer (PCa)
+186	Malignant neoplasm of testis	187.2	Exclusion	Prostate cancer (PCa)
+186.0	Malignant neoplasm of undescended testis	187.2	Exclusion	Prostate cancer (PCa)
+186.9	Malignant neoplasm of other and unspecified testis	187.2	Exclusion	Prostate cancer (PCa)
+187	Malignant neoplasm of penis and other male genital organs	187	Exclusion	Prostate cancer (PCa)
+187.1	Malignant neoplasm of prepuce	187.1	Exclusion	Prostate cancer (PCa)
+187.2	Malignant neoplasm of glans penis	187.1	Exclusion	Prostate cancer (PCa)
+187.3	Malignant neoplasm of body of penis	187.1	Exclusion	Prostate cancer (PCa)
+187.4	Malignant neoplasm of penis, part unspecified	187.1	Exclusion	Prostate cancer (PCa)
+187.5	Malignant neoplasm of epididymis	187.1	Exclusion	Prostate cancer (PCa)
+187.6	Malignant neoplasm of spermatic cord	187.1	Exclusion	Prostate cancer (PCa)
+187.7	Malignant neoplasm of scrotum	187.1	Exclusion	Prostate cancer (PCa)
+187.8	Malignant neoplasm of other specified sites of male genital organs	187.1	Exclusion	Prostate cancer (PCa)
+187.9	Malignant neoplasm of male genital organ, site unspecified	187.1	Exclusion	Prostate cancer (PCa)
+233.4	Carcinoma in situ of prostate	185	Exclusion	Prostate cancer (PCa)
+233.5	Carcinoma in situ of penis	187	Exclusion	Prostate cancer (PCa)
+233.6	Carcinoma in situ of other and unspecified male genital organs	187	Exclusion	Prostate cancer (PCa)
+236.4	Neoplasm of uncertain behavior of testis	187.8	Exclusion	Prostate cancer (PCa)
+236.5	Neoplasm of uncertain behavior of prostate	187.8	Exclusion	Prostate cancer (PCa)
+236.6	Neoplasm of uncertain behavior of other and unspecified male genital organs	187.8	Exclusion	Prostate cancer (PCa)
+600	Hyperplasia of prostate	600	Exclusion	Prostate cancer (PCa)
+600.0	Hypertrophy (benign) of prostate	600	Exclusion	Prostate cancer (PCa)
+600.00	Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)	600	Exclusion	Prostate cancer (PCa)
+600.01	Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)	600	Exclusion	Prostate cancer (PCa)
+600.1	Nodular prostate	600	Exclusion	Prostate cancer (PCa)
+600.10	Nodular prostate without urinary obstruction	600	Exclusion	Prostate cancer (PCa)
+600.11	Nodular prostate with urinary obstruction	600	Exclusion	Prostate cancer (PCa)
+600.2	Benign localized hyperplasia of prostate	600	Exclusion	Prostate cancer (PCa)
+600.20	Benign localized hyperplasia of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)	600	Exclusion	Prostate cancer (PCa)
+600.21	Benign localized hyperplasia of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)	600	Exclusion	Prostate cancer (PCa)
+600.3	Cyst of prostate	600	Exclusion	Prostate cancer (PCa)
+600.9	Hyperplasia of prostate, unspecified	600	Exclusion	Prostate cancer (PCa)
+600.90	Hyperplasia of prostate, unspecified, without urinary obstruction and other lower urinary symptoms (LUTS)	600	Exclusion	Prostate cancer (PCa)
+600.91	Hyperplasia of prostate, unspecified, with urinary obstruction and other lower urinary symptoms (LUTS)	600	Exclusion	Prostate cancer (PCa)
+601	Inflammatory diseases of prostate	601	Exclusion	Prostate cancer (PCa)
+601.0	Acute prostatitis	601.11	Exclusion	Prostate cancer (PCa)
+601.1	Chronic prostatitis	601.12	Exclusion	Prostate cancer (PCa)
+601.2	Abscess of prostate	601.11	Exclusion	Prostate cancer (PCa)
+601.3	Prostatocystitis	601.1	Exclusion	Prostate cancer (PCa)
+601.4	Prostatitis in diseases classified elsewhere	601.1	Exclusion	Prostate cancer (PCa)
+601.8	Other specified inflammatory diseases of prostate	601.1	Exclusion	Prostate cancer (PCa)
+601.9	Prostatitis NOS	601.1	Exclusion	Prostate cancer (PCa)
+602	Other disorders of prostate	602	Exclusion	Prostate cancer (PCa)
+602.0	Calculus of prostate	602	Exclusion	Prostate cancer (PCa)
+602.1	Congestion or hemorrhage of prostate	602	Exclusion	Prostate cancer (PCa)
+602.2	Atrophy of prostate	602	Exclusion	Prostate cancer (PCa)
+602.3	Dysplasia of prostate	602.3	Exclusion	Prostate cancer (PCa)
+602.8	Other specified disorders of prostate	602	Exclusion	Prostate cancer (PCa)
+602.9	Disorder of prostate NOS	602	Exclusion	Prostate cancer (PCa)
+604	Orchitis and epididymitis	601.3	Exclusion	Prostate cancer (PCa)
+604.0	Orchitis, epididymitis, and epididymo-orchitis, with abscess	601.3	Exclusion	Prostate cancer (PCa)
+604.9	Other orchitis, epididymitis, and epididymo-orchitis, without mention of abscess	601.3	Exclusion	Prostate cancer (PCa)
+604.90	Orchitis and epididymitis, unspecified	601.3	Exclusion	Prostate cancer (PCa)
+604.91	Orchitis and epididymitis in diseases classified elsewhere	601.3	Exclusion	Prostate cancer (PCa)
+604.99	Other orchitis, epididymitis, and epididymo-orchitis, without mention of abscess	601.3	Exclusion	Prostate cancer (PCa)
+607.1	Balanoposthitis	601.4	Exclusion	Prostate cancer (PCa)
+607.2	Other inflammatory disorders of penis	601.8	Exclusion	Prostate cancer (PCa)
+608.0	Seminal vesiculitis	601.8	Exclusion	Prostate cancer (PCa)
+608.4	Other inflammatory disorders of male genital organs	601.8	Exclusion	Prostate cancer (PCa)
+790.93	Elevated prostate specific antigen [PSA]	796	Exclusion	Prostate cancer (PCa)
+V10.45	Personal history of malignant neoplasm of unspecified male genital organ	187.1	Exclusion	Prostate cancer (PCa)
+V10.46	Personal history of malignant neoplasm of prostate	185	Exclusion	Prostate cancer (PCa)
+V10.47	Personal history of malignant neoplasm of testis	187.2	Exclusion	Prostate cancer (PCa)
+V10.48	Personal history of malignant neoplasm of epididymis	187	Exclusion	Prostate cancer (PCa)
+V10.49	Personal history of malignant neoplasm of other male genital organs	187.1	Exclusion	Prostate cancer (PCa)
+250.01	type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, without mention of complication	250.1	Inclusion	Type 1 diabetes (T1D)
+250.03	type I diabetes mellitus [juvenile type], uncontrolled, without mention of complication	250.1	Inclusion	Type 1 diabetes (T1D)
+250.11	type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ketoacidosis	250.11	Inclusion	Type 1 diabetes (T1D)
+250.13	type I diabetes mellitus [juvenile type], uncontrolled, with ketoacidosis	250.11	Inclusion	Type 1 diabetes (T1D)
+250.21	Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type] with hyperosmolarity, not stated as uncontrolled	250.1	Inclusion	Type 1 diabetes (T1D)
+250.23	Diabetes mellitus, type I [juvenile type] with hyperosmolarity, uncontrolled	250.1	Inclusion	Type 1 diabetes (T1D)
+250.31	Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled	250.1	Inclusion	Type 1 diabetes (T1D)
+250.33	Diabetes mellitus with other coma, type I [juvenile type], uncontrolled	250.1	Inclusion	Type 1 diabetes (T1D)
+250.41	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with renal manifestations	250.12	Inclusion	Type 1 diabetes (T1D)
+250.43	Diabetes mellitus type I [juvenile type], uncontrolled, with renal manifestations	250.12	Inclusion	Type 1 diabetes (T1D)
+250.51	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ophthalmic manifestations	250.13	Inclusion	Type 1 diabetes (T1D)
+250.53	Diabetes mellitus type I [juvenile type], uncontrolled, with ophthalmic manifestations	250.13	Inclusion	Type 1 diabetes (T1D)
+250.61	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with neurological manifestations	250.14	Inclusion	Type 1 diabetes (T1D)
+250.63	Diabetes mellitus type I [juvenile type], uncontrolled, with neurological manifestations	250.14	Inclusion	Type 1 diabetes (T1D)
+250.71	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with peripheral circulatory disorders	250.15	Inclusion	Type 1 diabetes (T1D)
+250.73	Diabetes mellitus type I [juvenile type], uncontrolled, with peripheral circulatory disorders	250.15	Inclusion	Type 1 diabetes (T1D)
+250.81	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with other specified manifestations	250.1	Inclusion	Type 1 diabetes (T1D)
+250.83	Diabetes mellitus type I [juvenile type], uncontrolled, with other specified manifestations	250.1	Inclusion	Type 1 diabetes (T1D)
+250.91	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with unspecified complication	250.1	Inclusion	Type 1 diabetes (T1D)
+250.93	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], uncontrolled, with unspecified complication	250.1	Inclusion	Type 1 diabetes (T1D)
+249	Secondary diabetes mellitus	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.0	Secondary diabetes mellitus, without mention of complication	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.00	Secondary diabetes mellitus, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.01	Secondary diabetes mellitus, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.1	Secondary diabetes mellitus with ketoacidosis	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.10	Secondary diabetes mellitus with ketoacidosis, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.11	Secondary diabetes mellitus with ketoacidosis, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.2	Secondary diabetes mellitus with hyperosmolarity	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.20	Secondary diabetes mellitus with hyperosmolarity, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.21	Secondary diabetes mellitus with hyperosmolarity, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.3	Secondary diabetes mellitus with other coma	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.30	Secondary diabetes mellitus with other coma, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.31	Secondary diabetes mellitus with other coma, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.4	Secondary diabetes mellitus with renal manifestations	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.40	Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.41	Secondary diabetes mellitus with renal manifestations, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.5	Secondary diabetes mellitus with ophthalmic manifestations	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.50	Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.51	Secondary diabetes mellitus with ophthalmic manifestations, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.6	Secondary diabetes mellitus with neurological manifestations	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.60	Secondary diabetes mellitus with neurological manifestations, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.61	Secondary diabetes mellitus with neurological manifestations, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.7	Secondary diabetes mellitus with peripheral circulatory disorders	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.70	Secondary diabetes mellitus with peripheral circulatory disorders, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.71	Secondary diabetes mellitus with peripheral circulatory disorders, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.8	Secondary diabetes mellitus with other specified manifestations	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.80	Secondary diabetes mellitus with other specified manifestations, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.81	Secondary diabetes mellitus with other specified manifestations, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.9	Secondary diabetes mellitus with unspecified complication	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.90	Secondary diabetes mellitus with unspecified complication, not stated as uncontrolled, or unspecified	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+249.91	Secondary diabetes mellitus with unspecified complication, uncontrolled	249	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250	Diabetes mellitus	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.0	Diabetes mellitus without mention of complication	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.00	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.01	type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, without mention of complication	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.02	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.03	type I diabetes mellitus [juvenile type], uncontrolled, without mention of complication	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.1	Diabetes with ketoacidosis	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.10	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ketoacidosis	250.21	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.11	type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ketoacidosis	250.11	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.12	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ketoacidosis	250.21	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.13	type I diabetes mellitus [juvenile type], uncontrolled, with ketoacidosis	250.11	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.2	Diabetes mellitus with hyperosmolarity	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.20	Diabetes mellitus, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type with hyperosmolarity, not stated as uncontrolled	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.21	Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type] with hyperosmolarity, not stated as uncontrolled	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.22	Diabetes mellitustype II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type with hyperosmolarity, uncontrolled	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.23	Diabetes mellitus, type I [juvenile type] with hyperosmolarity, uncontrolled	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.3	Diabetes with other coma	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.30	Diabetes mellitus, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.31	Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.32	Diabetes mellitus with other coma, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.33	Diabetes mellitus with other coma, type I [juvenile type], uncontrolled	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.4	Diabetes with renal manifestations	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.40	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations	250.22	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.41	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with renal manifestations	250.12	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.42	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with renal manifestations	250.22	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.43	Diabetes mellitus type I [juvenile type], uncontrolled, with renal manifestations	250.12	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.5	Diabetes with ophthalmic manifestations	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.50	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ophthalmic manifestations	250.23	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.51	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ophthalmic manifestations	250.13	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.52	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ophthalmic manifestations	250.23	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.53	Diabetes mellitus type I [juvenile type], uncontrolled, with ophthalmic manifestations	250.13	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.6	Diabetes with neurological manifestations	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.60	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with neurological manifestations	250.24	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.61	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with neurological manifestations	250.14	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.62	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with neurological manifestations	250.24	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.63	Diabetes mellitus type I [juvenile type], uncontrolled, with neurological manifestations	250.14	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.7	Diabetes with peripheral circulatory disorders	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.70	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with peripheral circulatory disorders	250.25	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.71	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with peripheral circulatory disorders	250.15	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.72	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with peripheral circulatory disorders	250.25	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.73	Diabetes mellitus type I [juvenile type], uncontrolled, with peripheral circulatory disorders	250.15	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.8	Diabetes with other specified manifestations	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.80	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with other specified manifestations	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.81	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with other specified manifestations	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.82	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with other specified manifestations	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.83	Diabetes mellitus type I [juvenile type], uncontrolled, with other specified manifestations	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.9	Diabetes with unspecified complication	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.90	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with unspecified complication	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.91	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with unspecified complication	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.92	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with unspecified complication	250.2	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.93	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], uncontrolled, with unspecified complication	250.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+357.2	Polyneuropathy in diabetes	250.6	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.0	Diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.01	Background diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.02	Proliferative diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.03	Nonproliferative diabetic retinopathy NOS	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.04	Mild nonproliferative diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.05	Moderate nonproliferative diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.06	Severe nonproliferative diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+362.07	Diabetic macular edema	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+790.2	Abnormal glucose	250.4	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+790.21	Impaired fasting glucose	250.41	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+790.22	Impaired glucose tolerance test (oral)	250.41	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+790.29	Other abnormal glucose	250.42	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+791.5	Glycosuria	250.5	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+791.6	Acetonuria	250.5	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+V45.85	Insulin pump status	250.3	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+V53.91	Fitting and adjustment of insulin pump Insulin pump titration	250.3	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+V58.67	Encounter for long-term (current) use of insulin	250.3	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+V65.46	Encounter for insulin pump training	250.3	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+250.00	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication	250.2	Inclusion	Type 2 diabetes (T2D)
+250.02	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication	250.2	Inclusion	Type 2 diabetes (T2D)
+250.10	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ketoacidosis	250.21	Inclusion	Type 2 diabetes (T2D)
+250.12	type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ketoacidosis	250.21	Inclusion	Type 2 diabetes (T2D)
+250.20	Diabetes mellitus, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type with hyperosmolarity, not stated as uncontrolled	250.2	Inclusion	Type 2 diabetes (T2D)
+250.22	Diabetes mellitustype II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type with hyperosmolarity, uncontrolled	250.2	Inclusion	Type 2 diabetes (T2D)
+250.30	Diabetes mellitus, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled	250.2	Inclusion	Type 2 diabetes (T2D)
+250.32	Diabetes mellitus with other coma, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled	250.2	Inclusion	Type 2 diabetes (T2D)
+250.40	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations	250.22	Inclusion	Type 2 diabetes (T2D)
+250.42	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with renal manifestations	250.22	Inclusion	Type 2 diabetes (T2D)
+250.50	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ophthalmic manifestations	250.23	Inclusion	Type 2 diabetes (T2D)
+250.52	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ophthalmic manifestations	250.23	Inclusion	Type 2 diabetes (T2D)
+250.60	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with neurological manifestations	250.24	Inclusion	Type 2 diabetes (T2D)
+250.62	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with neurological manifestations	250.24	Inclusion	Type 2 diabetes (T2D)
+250.70	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with peripheral circulatory disorders	250.25	Inclusion	Type 2 diabetes (T2D)
+250.72	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with peripheral circulatory disorders	250.25	Inclusion	Type 2 diabetes (T2D)
+250.80	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with other specified manifestations	250.2	Inclusion	Type 2 diabetes (T2D)
+250.82	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with other specified manifestations	250.2	Inclusion	Type 2 diabetes (T2D)
+250.90	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with unspecified complication	250.2	Inclusion	Type 2 diabetes (T2D)
+250.92	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with unspecified complication	250.2	Inclusion	Type 2 diabetes (T2D)
