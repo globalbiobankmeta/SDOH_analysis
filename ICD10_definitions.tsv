@@ -72,7 +72,6 @@ J47.0	Bronchiectasis with acute lower respiratory infection	496.3	Exclusion	Asth
 J47.1	Bronchiectasis with (acute) exacerbation	496.3	Exclusion	Asthma
 J47.9	Bronchiectasis, uncomplicated	496.3	Exclusion	Asthma
 J98.01	Acute bronchospasm	498	Exclusion	Asthma
-I48	Atrial fibrillation and flutter	427.2	Inclusion	Atrial fibrillation (AFib)
 I48.0	Paroxysmal atrial fibrillation	427.21	Inclusion	Atrial fibrillation (AFib)
 I48.1	Persistent atrial fibrillation	427.22	Inclusion	Atrial fibrillation (AFib)
 I48.11	Longstanding persistent atrial fibrillation	427.22	Inclusion	Atrial fibrillation (AFib)
@@ -82,9 +81,7 @@ I48.20	…… unspecified	427.21	Inclusion	Atrial fibrillation (AFib)
 I48.21	Permanent atrial fibrillation	427.21	Inclusion	Atrial fibrillation (AFib)
 I48.3	Typical atrial flutter	427.22	Inclusion	Atrial fibrillation (AFib)
 I48.4	Atypical atrial flutter	427.22	Inclusion	Atrial fibrillation (AFib)
-I48.9	Unspecified atrial fibrillation and atrial flutter	427.21	Inclusion	Atrial fibrillation (AFib)
 I48.91	Unspecified atrial fibrillation	427.22	Inclusion	Atrial fibrillation (AFib)
-I48.92	Unspecified atrial flutter	427.22	Inclusion	Atrial fibrillation (AFib)
 I44.0	Atrioventricular block, first degree	426.21	Exclusion	Atrial fibrillation (AFib)
 I44.1	Atrioventricular block, second degree	426.23	Exclusion	Atrial fibrillation (AFib)
 I44.2	Atrioventricular block, complete	426.24	Exclusion	Atrial fibrillation (AFib)
@@ -3176,4 +3173,5 @@ E11.649	Type 2 diabetes mellitus with hypoglycemia without coma	250.2	Inclusion	
 E11.65	Type 2 diabetes mellitus with hyperglycemia	250.2	Inclusion	Type 2 diabetes (T2D)
 E11.69	Type 2 diabetes mellitus with other specified complication	250.2	Inclusion	Type 2 diabetes (T2D)
 E11.8	Type 2 diabetes mellitus with unspecified complications	250.2	Inclusion	Type 2 diabetes (T2D)
+
 E11.9	Type 2 diabetes mellitus without complications	250.2	Inclusion	Type 2 diabetes (T2D)
