@@ -79,8 +79,6 @@ I48.19	Other persistent atrial fibrillation	427.22	Inclusion	Atrial fibrillation
 I48.2	Chronic atrial fibrillation	427.21	Inclusion	Atrial fibrillation (AFib)
 I48.20	…… unspecified	427.21	Inclusion	Atrial fibrillation (AFib)
 I48.21	Permanent atrial fibrillation	427.21	Inclusion	Atrial fibrillation (AFib)
-I48.3	Typical atrial flutter	427.22	Inclusion	Atrial fibrillation (AFib)
-I48.4	Atypical atrial flutter	427.22	Inclusion	Atrial fibrillation (AFib)
 I48.91	Unspecified atrial fibrillation	427.22	Inclusion	Atrial fibrillation (AFib)
 I44.0	Atrioventricular block, first degree	426.21	Exclusion	Atrial fibrillation (AFib)
 I44.1	Atrioventricular block, second degree	426.23	Exclusion	Atrial fibrillation (AFib)
@@ -411,12 +409,20 @@ N87.0	Mild cervical dysplasia	180.3	Exclusion	Breast cancer (BC)
 N87.1	Moderate cervical dysplasia	180.3	Exclusion	Breast cancer (BC)
 N87.9	Dysplasia of cervix uteri, unspecified	180.3	Exclusion	Breast cancer (BC)
 N90.3	Dysplasia of vulva, unspecified	184.2	Exclusion	Breast cancer (BC)
+Z15.01	Genetic susceptibility to malignant neoplasm of breast	1010.4	Exclusion	Breast cancer (BC)
+Z40.01	Encounter for prophylactic removal of breast	1010	Exclusion	Breast cancer (BC)
+Z42.1	Encounter for breast reconstruction following mastectomy	1010	Exclusion	Breast cancer (BC)
 Z85.3	Personal history of malignant neoplasm of breast	174	Exclusion	Breast cancer (BC)
 Z85.40	Personal history of malignant neoplasm of unspecified female genital organ	184	Exclusion	Breast cancer (BC)
 Z85.41	Personal history of malignant neoplasm of cervix uteri	184	Exclusion	Breast cancer (BC)
 Z85.42	Personal history of malignant neoplasm of other parts of uterus	182	Exclusion	Breast cancer (BC)
 Z85.43	Personal history of malignant neoplasm of ovary	184.11	Exclusion	Breast cancer (BC)
 Z85.44	Personal history of malignant neoplasm of other female genital organs	184	Exclusion	Breast cancer (BC)
+Z90.1	Acquired absence of breast and nipple	1090	Exclusion	Breast cancer (BC)
+Z90.10	Acquired absence of unspecified breast and nipple	1090	Exclusion	Breast cancer (BC)
+Z90.11	Acquired absence of right breast and nipple	1090	Exclusion	Breast cancer (BC)
+Z90.12	Acquired absence of left breast and nipple	1090	Exclusion	Breast cancer (BC)
+Z90.13	Acquired absence of bilateral breasts and nipples	1090	Exclusion	Breast cancer (BC)
 N18	Chronic kidney disease (CKD)	585.3	Inclusion	Chronic kidney disease (CKD)
 N18.1	Chronic kidney disease, stage 1	585.4	Inclusion	Chronic kidney disease (CKD)
 N18.2	Chronic kidney disease, stage 2 (mild)	585.4	Inclusion	Chronic kidney disease (CKD)
@@ -429,17 +435,50 @@ N18.5	Chronic kidney disease, stage 5	585.32	Inclusion	Chronic kidney disease (C
 N18.6	End stage renal disease	585.32	Inclusion	Chronic kidney disease (CKD)
 N18.9	Chronic kidney disease, unspecified	585.3	Inclusion	Chronic kidney disease (CKD)
 R88.0	Cloudy (hemodialysis) (peritoneal) dialysis effluent	585.31	Inclusion	Chronic kidney disease (CKD)
-Y62.0	Failure of sterile precautions during surgical operation	585.31	Inclusion	Chronic kidney disease (CKD)
+Y62.2	Failure of sterile precautions during kidney dialysis and other perfusion	585.31	Inclusion	Chronic kidney disease (CKD)
 Y62.2	Failure of sterile precautions during kidney dialysis and other perfusion	585.31	Inclusion	Chronic kidney disease (CKD)
 Y84.1	Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	585.31	Inclusion	Chronic kidney disease (CKD)
+Y84.1	Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	585.31	Inclusion	Chronic kidney disease (CKD)
+Z49	Encounter for care involving renal dialysis	1010	Inclusion	Chronic kidney disease (CKD)
+Z49.0	Preparatory care for renal dialysis	1010	Inclusion	Chronic kidney disease (CKD)
+Z49.01	Encounter for fitting and adjustment of extracorporeal dialysis catheter	1010	Inclusion	Chronic kidney disease (CKD)
+Z49.02	Encounter for fitting and adjustment of peritoneal dialysis catheter	1010	Inclusion	Chronic kidney disease (CKD)
+Z49.3	Encounter for adequacy testing for dialysis	1010	Inclusion	Chronic kidney disease (CKD)
+Z49.31	Encounter for adequacy testing for hemodialysis	1010	Inclusion	Chronic kidney disease (CKD)
+Z49.32	Encounter for adequacy testing for peritoneal dialysis	1010	Inclusion	Chronic kidney disease (CKD)
 Z99.2	Dependence on renal dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
 B52.0	Plasmodium malariae malaria with nephropathy	580.2	Exclusion	Chronic kidney disease (CKD)
+E08.2	Diabetes mellitus due to underlying condition with kidney complications	249	Exclusion	Chronic kidney disease (CKD)
+E08.21	Diabetes mellitus due to underlying condition with diabetic nephropathy	249	Exclusion	Chronic kidney disease (CKD)
+E08.22	Diabetes mellitus due to underlying condition with diabetic chronic kidney disease	249	Exclusion	Chronic kidney disease (CKD)
+E08.29	Diabetes mellitus due to underlying condition with other diabetic kidney complication	249	Exclusion	Chronic kidney disease (CKD)
+E09.2	Drug or chemical induced diabetes mellitus with kidney complications	249	Exclusion	Chronic kidney disease (CKD)
+E09.21	Drug or chemical induced diabetes mellitus with diabetic nephropathy	250.12	Exclusion	Chronic kidney disease (CKD)
+E09.22	Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease	250.22	Exclusion	Chronic kidney disease (CKD)
+E09.29	Drug or chemical induced diabetes mellitus with other diabetic kidney complication	250	Exclusion	Chronic kidney disease (CKD)
+E10.2	Type 1 diabetes mellitus with kidney complications	250.12	Exclusion	Chronic kidney disease (CKD)
+E10.21	Type 1 diabetes mellitus with diabetic nephropathy	250.12	Exclusion	Chronic kidney disease (CKD)
+E10.22	Type 1 diabetes mellitus with diabetic chronic kidney disease	250.12	Exclusion	Chronic kidney disease (CKD)
+E10.29	Type 1 diabetes mellitus with other diabetic kidney complication	250.12	Exclusion	Chronic kidney disease (CKD)
+E11.2	Type 2 diabetes mellitus with kidney complications	250.22	Exclusion	Chronic kidney disease (CKD)
+E11.21	Type 2 diabetes mellitus with diabetic nephropathy	250.22	Exclusion	Chronic kidney disease (CKD)
+E11.22	Type 2 diabetes mellitus with diabetic chronic kidney disease	250.22	Exclusion	Chronic kidney disease (CKD)
+E11.29	Type 2 diabetes mellitus with other diabetic kidney complication	250.22	Exclusion	Chronic kidney disease (CKD)
+E13.2	Other specified diabetes mellitus with kidney complications	250	Exclusion	Chronic kidney disease (CKD)
+E13.21	Other specified diabetes mellitus with diabetic nephropathy	250	Exclusion	Chronic kidney disease (CKD)
+E13.22	Other specified diabetes mellitus with diabetic chronic kidney disease	250	Exclusion	Chronic kidney disease (CKD)
+E13.29	Other specified diabetes mellitus with other diabetic kidney complication	250	Exclusion	Chronic kidney disease (CKD)
+M10.3	Gout due to renal impairment	274.11	Exclusion	Chronic kidney disease (CKD)
+M10.30	Gout due to renal impairment, unspecified site	274.11	Exclusion	Chronic kidney disease (CKD)
 M10.31	Gout due to renal impairment, shoulder	588	Exclusion	Chronic kidney disease (CKD)
 M10.32	Gout due to renal impairment, elbow	588	Exclusion	Chronic kidney disease (CKD)
 M10.33	Gout due to renal impairment, wrist	588	Exclusion	Chronic kidney disease (CKD)
 M10.34	Gout due to renal impairment, hand	588	Exclusion	Chronic kidney disease (CKD)
 M10.35	Gout due to renal impairment, hip	588	Exclusion	Chronic kidney disease (CKD)
 M10.36	Gout due to renal impairment, knee	588	Exclusion	Chronic kidney disease (CKD)
+M10.37	Gout due to renal impairment, ankle and foot	588	Exclusion	Chronic kidney disease (CKD)
+M10.38	Gout due to renal impairment, other site	588	Exclusion	Chronic kidney disease (CKD)
+M10.39	Gout due to renal impairment, multiple sites	588	Exclusion	Chronic kidney disease (CKD)
 M32.14	Glomerular disease in systemic lupus erythematosus	580.31	Exclusion	Chronic kidney disease (CKD)
 M32.15	Tubulo-interstitial nephropathy in systemic lupus erythematosus	580.31	Exclusion	Chronic kidney disease (CKD)
 M35.04	Sicca syndrome with tubulo-interstitial nephropathy	580.31	Exclusion	Chronic kidney disease (CKD)
@@ -617,6 +656,13 @@ T86.19	Other complication of kidney transplant	587	Exclusion	Chronic kidney dise
 Y62.0	Failure of sterile precautions during surgical operation	585.31	Exclusion	Chronic kidney disease (CKD)
 Y62.2	Failure of sterile precautions during kidney dialysis and other perfusion	585.31	Exclusion	Chronic kidney disease (CKD)
 Y84.1	Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	585.31	Exclusion	Chronic kidney disease (CKD)
+Z49	Encounter for care involving renal dialysis	1010	Exclusion	Chronic kidney disease (CKD)
+Z49.0	Preparatory care for renal dialysis	1010	Exclusion	Chronic kidney disease (CKD)
+Z49.01	Encounter for fitting and adjustment of extracorporeal dialysis catheter	1010	Exclusion	Chronic kidney disease (CKD)
+Z49.02	Encounter for fitting and adjustment of peritoneal dialysis catheter	1010	Exclusion	Chronic kidney disease (CKD)
+Z49.3	Encounter for adequacy testing for dialysis	1010	Exclusion	Chronic kidney disease (CKD)
+Z49.31	Encounter for adequacy testing for hemodialysis	1010	Exclusion	Chronic kidney disease (CKD)
+Z49.32	Encounter for adequacy testing for peritoneal dialysis	1010	Exclusion	Chronic kidney disease (CKD)
 Z87.441	Personal history of nephrotic syndrome	580.2	Exclusion	Chronic kidney disease (CKD)
 Z94.0	Kidney transplant status	587	Exclusion	Chronic kidney disease (CKD)
 Z99.2	Dependence on renal dialysis	585.31	Exclusion	Chronic kidney disease (CKD)
@@ -664,6 +710,23 @@ I25.810	Atherosclerosis of coronary artery bypass graft(s) without angina pector
 I25.82	Chronic total occlusion of coronary artery	411.4	Inclusion	Coronary artery disease (CAD)
 I25.83	Coronary atherosclerosis due to lipid rich plaque	411.4	Inclusion	Coronary artery disease (CAD)
 I25.84	Coronary atherosclerosis due to calcified coronary lesion	411.4	Inclusion	Coronary artery disease (CAD)
+T82.21	Mechanical complication of coronary artery bypass graft	854	Inclusion	Coronary artery disease (CAD)
+T82.211	Breakdown (mechanical) of coronary artery bypass graft	854	Inclusion	Coronary artery disease (CAD)
+T82.211A	…… initial encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.211D	…… subsequent encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.211S	…… sequela	854	Inclusion	Coronary artery disease (CAD)
+T82.212	Displacement of coronary artery bypass graft	854	Inclusion	Coronary artery disease (CAD)
+T82.212A	Displacement of coronary artery bypass graft, initial encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.212D	Displacement of coronary artery bypass graft, subsequent encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.212S	Displacement of coronary artery bypass graft, sequela	854	Inclusion	Coronary artery disease (CAD)
+T82.213	Leakage of coronary artery bypass graft	854	Inclusion	Coronary artery disease (CAD)
+T82.213A	Leakage of coronary artery bypass graft, initial encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.213D	Leakage of coronary artery bypass graft, subsequent encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.213S	Leakage of coronary artery bypass graft, sequela	854	Inclusion	Coronary artery disease (CAD)
+T82.218	Other mechanical complication of coronary artery bypass graft	854	Inclusion	Coronary artery disease (CAD)
+T82.218A	Other mechanical complication of coronary artery bypass graft, initial encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.218D	Other mechanical complication of coronary artery bypass graft, subsequent encounter	854	Inclusion	Coronary artery disease (CAD)
+T82.218S	Other mechanical complication of coronary artery bypass graft, sequela	854	Inclusion	Coronary artery disease (CAD)
 Z95.1	Presence of aortocoronary bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
 Z95.5	Presence of coronary angioplasty implant and graft	411.4	Inclusion	Coronary artery disease (CAD)
 Z98.6	Angioplasty status	411.4	Inclusion	Coronary artery disease (CAD)
@@ -692,6 +755,7 @@ I21.9	Myocardial infarction (acute) NOS	411.2	Exclusion	Coronary artery disease 
 I21.A	Other type of myocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
 I21.A1	Myocardial infarction type 2	411.2	Exclusion	Coronary artery disease (CAD)
 I21.A9	Other myocardial infarction type	411.2	Exclusion	Coronary artery disease (CAD)
+I21.B	Myocardial infarction with coronary microvascular dysfunction	411.2	Exclusion	Coronary artery disease (CAD)
 I22	Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
 I22.0	Subsequent ST elevation (STEMI) myocardial infarction of anterior wall	411.2	Exclusion	Coronary artery disease (CAD)
 I22.1	Subsequent ST elevation (STEMI) myocardial infarction of inferior wall	411.2	Exclusion	Coronary artery disease (CAD)
@@ -778,6 +842,23 @@ I51.8	Other ill-defined heart diseases	414	Exclusion	Coronary artery disease (CA
 I51.89	Other ill-defined heart diseases	414	Exclusion	Coronary artery disease (CAD)
 I51.9	Heart disease, unspecified	414	Exclusion	Coronary artery disease (CAD)
 I52	Other heart disorders in diseases classified elsewhere	414	Exclusion	Coronary artery disease (CAD)
+T82.21	Mechanical complication of coronary artery bypass graft	854	Exclusion	Coronary artery disease (CAD)
+T82.211	Breakdown (mechanical) of coronary artery bypass graft	854	Exclusion	Coronary artery disease (CAD)
+T82.211A	…… initial encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.211D	…… subsequent encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.211S	…… sequela	854	Exclusion	Coronary artery disease (CAD)
+T82.212	Displacement of coronary artery bypass graft	854	Exclusion	Coronary artery disease (CAD)
+T82.212A	Displacement of coronary artery bypass graft, initial encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.212D	Displacement of coronary artery bypass graft, subsequent encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.212S	Displacement of coronary artery bypass graft, sequela	854	Exclusion	Coronary artery disease (CAD)
+T82.213	Leakage of coronary artery bypass graft	854	Exclusion	Coronary artery disease (CAD)
+T82.213A	Leakage of coronary artery bypass graft, initial encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.213D	Leakage of coronary artery bypass graft, subsequent encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.213S	Leakage of coronary artery bypass graft, sequela	854	Exclusion	Coronary artery disease (CAD)
+T82.218	Other mechanical complication of coronary artery bypass graft	854	Exclusion	Coronary artery disease (CAD)
+T82.218A	Other mechanical complication of coronary artery bypass graft, initial encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.218D	Other mechanical complication of coronary artery bypass graft, subsequent encounter	854	Exclusion	Coronary artery disease (CAD)
+T82.218S	Other mechanical complication of coronary artery bypass graft, sequela	854	Exclusion	Coronary artery disease (CAD)
 Z95.1	Presence of aortocoronary bypass graft	411.4	Exclusion	Coronary artery disease (CAD)
 Z95.5	Presence of coronary angioplasty implant and graft	411.4	Exclusion	Coronary artery disease (CAD)
 Z98.6	Angioplasty status	411.4	Exclusion	Coronary artery disease (CAD)
@@ -1103,6 +1184,381 @@ H40.849	…… unspecified eye	370	Inclusion	Glaucoma
 H40.89	Other specified glaucoma	365	Inclusion	Glaucoma
 H40.9	Unspecified glaucoma	365	Inclusion	Glaucoma
 H42	Glaucoma in diseases classified elsewhere	365	Inclusion	Glaucoma
+E08.3	Diabetes mellitus due to underlying condition with ophthalmic complications	249|250.7	Exclusion	Glaucoma
+E08.31	Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E08.311	Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E08.319	Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E08.32	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E08.321	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E08.3211	Diabetes with mild nonp rtnop with macular edema, right eye	249|250.7	Exclusion	Glaucoma
+E08.3212	Diabetes with mild nonp rtnop with macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3213	Diabetes with mild nonp rtnop with macular edema, bilateral	249|250.7	Exclusion	Glaucoma
+E08.3219	Diabetes with mild nonp rtnop with macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E08.329	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E08.3291	Diabetes with mild nonp rtnop without macular edema, r eye	249|250.7	Exclusion	Glaucoma
+E08.3292	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3293	Diabetes with mild nonp rtnop without macular edema, bi	249|250.7	Exclusion	Glaucoma
+E08.3299	Diabetes with mild nonp rtnop without macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E08.33	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E08.331	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E08.3311	Diabetes with moderate nonp rtnop with macular edema, r eye	249|250.7	Exclusion	Glaucoma
+E08.3312	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3313	Diabetes with moderate nonp rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E08.3319	Diabetes with moderate nonp rtnop with macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E08.339	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E08.3391	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye	249|250.7	Exclusion	Glaucoma
+E08.3392	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3393	Diabetes with moderate nonp rtnop without macular edema, bi	249|250.7	Exclusion	Glaucoma
+E08.3399	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye	249|250.7	Exclusion	Glaucoma
+E08.34	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E08.341	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E08.3411	Diabetes with severe nonp rtnop with macular edema, r eye	249|250.7	Exclusion	Glaucoma
+E08.3412	Diabetes with severe nonp rtnop with macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3413	Diabetes with severe nonp rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E08.3419	Diabetes with severe nonp rtnop with macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E08.349	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E08.3491	Diabetes with severe nonp rtnop without macular edema, r eye	249|250.7	Exclusion	Glaucoma
+E08.3492	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3493	Diabetes with severe nonp rtnop without macular edema, bi	249|250.7	Exclusion	Glaucoma
+E08.3499	Diabetes with severe nonp rtnop without macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E08.35	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E08.351	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E08.3511	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, right eye	249|250.7	Exclusion	Glaucoma
+E08.3512	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3513	Diabetes with prolif diabetic rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E08.3519	Diabetes with prolif diabetic rtnop with macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E08.352	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula	249|250.7	Exclusion	Glaucoma
+E08.3521	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye	249|250.7	Exclusion	Glaucoma
+E08.3522	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye	249|250.7	Exclusion	Glaucoma
+E08.3523	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral	249|250.7	Exclusion	Glaucoma
+E08.3529	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye	249|250.7	Exclusion	Glaucoma
+E08.353	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula	249|250.7	Exclusion	Glaucoma
+E08.3531	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye	249|250.7	Exclusion	Glaucoma
+E08.3532	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye	249|250.7	Exclusion	Glaucoma
+E08.3533	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral	249|250.7	Exclusion	Glaucoma
+E08.3539	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye	249|250.7	Exclusion	Glaucoma
+E08.354	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment	249|250.7	Exclusion	Glaucoma
+E08.3541	Diabetes with prolif diabetic rtnop with comb detach, r eye	249|250.7	Exclusion	Glaucoma
+E08.3542	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye	249|250.7	Exclusion	Glaucoma
+E08.3543	Diabetes with prolif diabetic rtnop with combined detach, bi	249|250.7	Exclusion	Glaucoma
+E08.3549	Diabetes with prolif diabetic rtnop with comb detach, unsp	249|250.7	Exclusion	Glaucoma
+E08.355	Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E08.3551	Diabetes with stable prolif diabetic retinopathy, right eye	249|250.7	Exclusion	Glaucoma
+E08.3552	Diabetes with stable prolif diabetic retinopathy, left eye	249|250.7	Exclusion	Glaucoma
+E08.3553	Diabetes with stable prolif diabetic retinopathy, bilateral	249|250.7	Exclusion	Glaucoma
+E08.3559	Diabetes with stable prolif diabetic retinopathy, unsp	249|250.7	Exclusion	Glaucoma
+E08.359	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E08.3591	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye	249|250.7	Exclusion	Glaucoma
+E08.3592	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye	249|250.7	Exclusion	Glaucoma
+E08.3593	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, bilateral	249|250.7	Exclusion	Glaucoma
+E08.3599	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, unspecified eye	249|250.7	Exclusion	Glaucoma
+E08.36	Diabetes mellitus due to underlying condition with diabetic cataract	249|250.7	Exclusion	Glaucoma
+E08.37	Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment	249|250.7	Exclusion	Glaucoma
+E08.37X1	Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye	249|250.7	Exclusion	Glaucoma
+E08.37X2	Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye	249|250.7	Exclusion	Glaucoma
+E08.37X3	Diabetes with diabetic macular edema, resolved fol trtmt, bi	249|250.7	Exclusion	Glaucoma
+E08.37X9	Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, unspecified eye	249|250.7	Exclusion	Glaucoma
+E08.39	Diabetes mellitus due to underlying condition with other diabetic ophthalmic complication	249|250.7	Exclusion	Glaucoma
+E09.3	Drug or chemical induced diabetes mellitus with ophthalmic complications	249|250.7	Exclusion	Glaucoma
+E09.31	Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E09.311	Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E09.319	Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E09.32	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E09.321	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E09.3211	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye	249|250.7	Exclusion	Glaucoma
+E09.3212	Drug/chem diab with mild nonp rtnop with mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3213	Drug/chem diab with mild nonp rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3219	Drug/chem diab with mild nonp rtnop with macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.329	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E09.3291	Drug/chem diab with mild nonp rtnop w/o mclr edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3292	Drug/chem diab with mild nonp rtnop w/o mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3293	Drug/chem diab with mild nonp rtnop without mclr edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3299	Drug/chem diab with mild nonp rtnop without mclr edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.33	Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E09.331	Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E09.3311	Drug/chem diab with mod nonp rtnop with macular edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3312	Drug/chem diab with mod nonp rtnop with macular edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3313	Drug/chem diab with mod nonp rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3319	Drug/chem diab with mod nonp rtnop with macular edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.339	Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E09.3391	Drug/chem diab with mod nonp rtnop without mclr edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3392	Drug/chem diab with mod nonp rtnop without mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3393	Drug/chem diab with mod nonp rtnop without macular edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3399	Drug/chem diab with mod nonp rtnop without mclr edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.34	Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E09.341	Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E09.3411	Drug/chem diab with severe nonp rtnop with mclr edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3412	Drug/chem diab with severe nonp rtnop with mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3413	Drug/chem diab with severe nonp rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3419	Drug/chem diab with severe nonp rtnop with mclr edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.349	Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E09.3491	Drug/chem diab with severe nonp rtnop w/o mclr edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3492	Drug/chem diab with severe nonp rtnop w/o mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3493	Drug/chem diab with severe nonp rtnop without mclr edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3499	Drug/chem diab with severe nonp rtnop w/o mclr edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.35	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E09.351	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema	249|250.7	Exclusion	Glaucoma
+E09.3511	Drug/chem diab with prolif diab rtnop with mclr edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3512	Drug/chem diab with prolif diab rtnop with mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3513	Drug/chem diab with prolif diab rtnop with macular edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3519	Drug/chem diab with prolif diab rtnop with mclr edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.352	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula	249|250.7	Exclusion	Glaucoma
+E09.3521	Drug/chem diab w prolif diab rtnop w trctn dtch macula,r eye	249|250.7	Exclusion	Glaucoma
+E09.3522	Drug/chem diab w prolif diab rtnop w trctn dtch macula,l eye	249|250.7	Exclusion	Glaucoma
+E09.3523	Drug/chem diab w prolif diab rtnop w trctn dtch macula, bi	249|250.7	Exclusion	Glaucoma
+E09.3529	Drug/chem diab w prolif diab rtnop w trctn dtch macula, unsp	249|250.7	Exclusion	Glaucoma
+E09.353	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula	249|250.7	Exclusion	Glaucoma
+E09.3531	Drug/chem diab w prolif diab rtnop w trctn dtch n-mcla,r eye	249|250.7	Exclusion	Glaucoma
+E09.3532	Drug/chem diab w prolif diab rtnop w trctn dtch n-mcla,l eye	249|250.7	Exclusion	Glaucoma
+E09.3533	Drug/chem diab w prolif diab rtnop w trctn dtch n-mcla, bi	249|250.7	Exclusion	Glaucoma
+E09.3539	Drug/chem diab w prolif diab rtnop w trctn dtch n-mcla, unsp	249|250.7	Exclusion	Glaucoma
+E09.354	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment	249|250.7	Exclusion	Glaucoma
+E09.3541	Drug/chem diab w prolif diab rtnop with comb detach, r eye	249|250.7	Exclusion	Glaucoma
+E09.3542	Drug/chem diab w prolif diab rtnop with comb detach, l eye	249|250.7	Exclusion	Glaucoma
+E09.3543	Drug/chem diab with prolif diab rtnop with comb detach, bi	249|250.7	Exclusion	Glaucoma
+E09.3549	Drug/chem diab with prolif diab rtnop with comb detach, unsp	249|250.7	Exclusion	Glaucoma
+E09.355	Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy	249|250.7	Exclusion	Glaucoma
+E09.3551	Drug/chem diabetes with stable prolif diabetic rtnop, r eye	249|250.7	Exclusion	Glaucoma
+E09.3552	Drug/chem diab with stable prolif diabetic rtnop, left eye	249|250.7	Exclusion	Glaucoma
+E09.3553	Drug/chem diabetes with stable prolif diabetic rtnop, bi	249|250.7	Exclusion	Glaucoma
+E09.3559	Drug/chem diabetes with stable prolif diabetic rtnop, unsp	249|250.7	Exclusion	Glaucoma
+E09.359	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema	249|250.7	Exclusion	Glaucoma
+E09.3591	Drug/chem diab with prolif diab rtnop w/o mclr edema, r eye	249|250.7	Exclusion	Glaucoma
+E09.3592	Drug/chem diab with prolif diab rtnop w/o mclr edema, l eye	249|250.7	Exclusion	Glaucoma
+E09.3593	Drug/chem diab with prolif diab rtnop without mclr edema, bi	249|250.7	Exclusion	Glaucoma
+E09.3599	Drug/chem diab with prolif diab rtnop w/o mclr edema, unsp	249|250.7	Exclusion	Glaucoma
+E09.36	Drug or chemical induced diabetes mellitus with diabetic cataract	249|250.7	Exclusion	Glaucoma
+E09.37	Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment	249|250.7	Exclusion	Glaucoma
+E09.37X1	Drug/chem diab w diab mclr edma, resolved fol trtmt, r eye	249|250.7	Exclusion	Glaucoma
+E09.37X2	Drug/chem diab w diab mclr edma, resolved fol trtmt, l eye	249|250.7	Exclusion	Glaucoma
+E09.37X3	Drug/chem diab with diab mclr edema, resolved fol trtmt, bi	249|250.7	Exclusion	Glaucoma
+E09.37X9	Drug/chem diab with diab mclr edma, resolved fol trtmt, unsp	249|250.7	Exclusion	Glaucoma
+E09.39	Drug/chem diabetes w oth diabetic ophthalmic complication	249|250.7	Exclusion	Glaucoma
+E10.3	Type 1 diabetes mellitus with ophthalmic complications	250.13|250.7	Exclusion	Glaucoma
+E10.31	Type 1 diabetes mellitus with unspecified diabetic retinopathy	250.13|250.7	Exclusion	Glaucoma
+E10.311	Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.319	Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.32	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy	250.13|250.7	Exclusion	Glaucoma
+E10.321	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3211	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3212	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3213	Type 1 diabetes with mild nonp rtnop with macular edema, bi	250.13|250.7	Exclusion	Glaucoma
+E10.3219	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.329	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3291	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3292	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3293	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3299	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.33	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy	250.13|250.7	Exclusion	Glaucoma
+E10.331	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3311	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3312	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3313	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3319	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.339	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3391	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3392	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3393	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3399	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.34	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy	250.13|250.7	Exclusion	Glaucoma
+E10.341	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3411	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3412	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3413	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3419	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.349	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3491	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3492	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3493	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3499	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.35	Type 1 diabetes mellitus with proliferative diabetic retinopathy	250.13|250.7	Exclusion	Glaucoma
+E10.351	Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3511	Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3512	Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3513	Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3519	Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.352	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula	250.13|250.7	Exclusion	Glaucoma
+E10.3521	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3522	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3523	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3529	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.353	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula	250.13|250.7	Exclusion	Glaucoma
+E10.3531	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3532	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3533	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3539	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.354	Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment	250.13|250.7	Exclusion	Glaucoma
+E10.3541	Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3542	Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3543	Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3549	Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.355	Type 1 diabetes mellitus with stable proliferative diabetic retinopathy	250.13|250.7	Exclusion	Glaucoma
+E10.3551	Type 1 diabetes with stable prolif diabetic rtnop, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3552	Type 1 diabetes with stable prolif diabetic rtnop, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3553	Type 1 diabetes with stable prolif diabetic rtnop, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3559	Type 1 diabetes with stable prolif diabetic rtnop, unsp	250.13|250.7	Exclusion	Glaucoma
+E10.359	Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema	250.13|250.7	Exclusion	Glaucoma
+E10.3591	Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.3592	Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.3593	Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.3599	Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.36	Type 1 diabetes mellitus with diabetic cataract	250.13|250.7	Exclusion	Glaucoma
+E10.37	Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment	250.13|250.7	Exclusion	Glaucoma
+E10.37X1	Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, right eye	250.13|250.7	Exclusion	Glaucoma
+E10.37X2	Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, left eye	250.13|250.7	Exclusion	Glaucoma
+E10.37X3	Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral	250.13|250.7	Exclusion	Glaucoma
+E10.37X9	Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye	250.13|250.7	Exclusion	Glaucoma
+E10.39	Type 1 diabetes mellitus with other diabetic ophthalmic complication	250.13|250.7	Exclusion	Glaucoma
+E11.3	Type 2 diabetes mellitus with ophthalmic complications	250.23|250.7	Exclusion	Glaucoma
+E11.31	Type 2 diabetes mellitus with unspecified diabetic retinopathy	250.23|250.7	Exclusion	Glaucoma
+E11.311	Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.319	Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.32	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy	250.23|250.7	Exclusion	Glaucoma
+E11.321	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3211	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3212	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3213	Type 2 diabetes with mild nonp rtnop with macular edema, bi	250.23|250.7	Exclusion	Glaucoma
+E11.3219	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.329	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3291	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3292	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3293	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3299	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.33	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy	250.23|250.7	Exclusion	Glaucoma
+E11.331	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3311	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3312	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3313	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3319	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.339	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3391	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3392	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3393	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3399	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.34	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy	250.23|250.7	Exclusion	Glaucoma
+E11.341	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3411	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3412	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3413	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3419	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.349	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3491	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3492	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3493	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3499	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.35	Type 2 diabetes mellitus with proliferative diabetic retinopathy	250.23|250.7	Exclusion	Glaucoma
+E11.351	Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3511	Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3512	Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3513	Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3519	Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.352	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula	250.23|250.7	Exclusion	Glaucoma
+E11.3521	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3522	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3523	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3529	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.353	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula	250.23|250.7	Exclusion	Glaucoma
+E11.3531	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3532	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3533	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3539	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.354	Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment	250.23|250.7	Exclusion	Glaucoma
+E11.3541	Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3542	Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3543	Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3549	Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.355	Type 2 diabetes mellitus with stable proliferative diabetic retinopathy	250.23|250.7	Exclusion	Glaucoma
+E11.3551	Type 2 diabetes with stable prolif diabetic rtnop, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3552	Type 2 diabetes with stable prolif diabetic rtnop, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3553	Type 2 diabetes with stable prolif diabetic rtnop, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3559	Type 2 diabetes with stable prolif diabetic rtnop, unsp	250.23|250.7	Exclusion	Glaucoma
+E11.359	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema	250.23|250.7	Exclusion	Glaucoma
+E11.3591	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.3592	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.3593	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.3599	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.36	Type 2 diabetes mellitus with diabetic cataract	250.23|250.7	Exclusion	Glaucoma
+E11.37	Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment	250.23|250.7	Exclusion	Glaucoma
+E11.37X1	Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, right eye	250.23|250.7	Exclusion	Glaucoma
+E11.37X2	Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, left eye	250.23|250.7	Exclusion	Glaucoma
+E11.37X3	Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral	250.23|250.7	Exclusion	Glaucoma
+E11.37X9	Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye	250.23|250.7	Exclusion	Glaucoma
+E11.39	Type 2 diabetes mellitus with other diabetic ophthalmic complication	250.23|250.7	Exclusion	Glaucoma
+E13.3	Other specified diabetes mellitus with ophthalmic complications	250	Exclusion	Glaucoma
+E13.31	Other specified diabetes mellitus with unspecified diabetic retinopathy	250.7	Exclusion	Glaucoma
+E13.311	Other specified diabetes mellitus with unspecified diabetic retinopathy with macular edema	250.7	Exclusion	Glaucoma
+E13.319	Other specified diabetes mellitus with unspecified diabetic retinopathy without macular edema	250.7	Exclusion	Glaucoma
+E13.32	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy	250.7	Exclusion	Glaucoma
+E13.321	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema	250.7	Exclusion	Glaucoma
+E13.3211	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3212	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3213	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3219	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.329	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema	250.7	Exclusion	Glaucoma
+E13.3291	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3292	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3293	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3299	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.33	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy	250.7	Exclusion	Glaucoma
+E13.331	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema	250.7	Exclusion	Glaucoma
+E13.3311	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3312	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3313	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3319	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.339	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema	250.7	Exclusion	Glaucoma
+E13.3391	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3392	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3393	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3399	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.34	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy	250.7	Exclusion	Glaucoma
+E13.341	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema	250.7	Exclusion	Glaucoma
+E13.3411	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3412	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3413	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3419	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.349	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema	250.7	Exclusion	Glaucoma
+E13.3491	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3492	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3493	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3499	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.35	Other specified diabetes mellitus with proliferative diabetic retinopathy	250.7	Exclusion	Glaucoma
+E13.351	Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema	250.7	Exclusion	Glaucoma
+E13.3511	Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3512	Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3513	Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3519	Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.352	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula	250.7	Exclusion	Glaucoma
+E13.3521	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye	250.7	Exclusion	Glaucoma
+E13.3522	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye	250.7	Exclusion	Glaucoma
+E13.3523	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral	250.7	Exclusion	Glaucoma
+E13.3529	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye	250.7	Exclusion	Glaucoma
+E13.353	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula	250.7	Exclusion	Glaucoma
+E13.3531	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye	250.7	Exclusion	Glaucoma
+E13.3532	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye	250.7	Exclusion	Glaucoma
+E13.3533	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral	250.7	Exclusion	Glaucoma
+E13.3539	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye	250.7	Exclusion	Glaucoma
+E13.354	Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment	250.7	Exclusion	Glaucoma
+E13.3541	Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye	250.7	Exclusion	Glaucoma
+E13.3542	Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye	250.7	Exclusion	Glaucoma
+E13.3543	Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral	250.7	Exclusion	Glaucoma
+E13.3549	Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye	250.7	Exclusion	Glaucoma
+E13.355	Other specified diabetes mellitus with stable proliferative diabetic retinopathy	250.7	Exclusion	Glaucoma
+E13.3551	Other specified diabetes mellitus with stable proliferative diabetic retinopathy, right eye	250.7	Exclusion	Glaucoma
+E13.3552	Other specified diabetes mellitus with stable proliferative diabetic retinopathy, left eye	250.7	Exclusion	Glaucoma
+E13.3553	Other specified diabetes mellitus with stable proliferative diabetic retinopathy, bilateral	250.7	Exclusion	Glaucoma
+E13.3559	Other specified diabetes mellitus with stable proliferative diabetic retinopathy, unspecified eye	250.7	Exclusion	Glaucoma
+E13.359	Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema	250.7	Exclusion	Glaucoma
+E13.3591	Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye	250.7	Exclusion	Glaucoma
+E13.3592	Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye	250.7	Exclusion	Glaucoma
+E13.3593	Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral	250.7	Exclusion	Glaucoma
+E13.3599	Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye	250.7	Exclusion	Glaucoma
+E13.36	Other specified diabetes mellitus with diabetic cataract	250	Exclusion	Glaucoma
+E13.37	Other specified diabetes mellitus with diabetic macular edema, resolved following treatment	250	Exclusion	Glaucoma
+E13.37X1	Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, right eye	250	Exclusion	Glaucoma
+E13.37X2	Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, left eye	250	Exclusion	Glaucoma
+E13.37X3	Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral	250	Exclusion	Glaucoma
+E13.37X9	Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye	250	Exclusion	Glaucoma
+E13.39	Other specified diabetes mellitus with other diabetic ophthalmic complication	250	Exclusion	Glaucoma
 G45.3	Amaurosis fugax	362.4	Exclusion	Glaucoma
 H02.73	Vitiligo of eyelid and periocular area	360	Exclusion	Glaucoma
 H02.731	Vitiligo of right upper eyelid and periocular area	360	Exclusion	Glaucoma
@@ -1307,6 +1763,80 @@ H18.892	Other specified disorders of cornea, left eye	364	Exclusion	Glaucoma
 H18.893	Other specified disorders of cornea, bilateral	364	Exclusion	Glaucoma
 H18.899	Other specified disorders of cornea, unspecified eye	364	Exclusion	Glaucoma
 H18.9	Unspecified disorder of cornea	364	Exclusion	Glaucoma
+H30	Chorioretinal inflammation	371.1	Exclusion	Glaucoma
+H30.0	Focal chorioretinal inflammation	371	Exclusion	Glaucoma
+H30.00	Unspecified focal chorioretinal inflammation	371	Exclusion	Glaucoma
+H30.001	…… right eye	371	Exclusion	Glaucoma
+H30.002	…… left eye	371	Exclusion	Glaucoma
+H30.003	…… bilateral	371	Exclusion	Glaucoma
+H30.009	…… unspecified eye	371	Exclusion	Glaucoma
+H30.01	Focal chorioretinal inflammation, juxtapapillary	371.1	Exclusion	Glaucoma
+H30.011	…… right eye	371.1	Exclusion	Glaucoma
+H30.012	…… left eye	371.1	Exclusion	Glaucoma
+H30.013	…… bilateral	371.1	Exclusion	Glaucoma
+H30.019	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.02	Focal chorioretinal inflammation of posterior pole	371.1	Exclusion	Glaucoma
+H30.021	…… right eye	371.1	Exclusion	Glaucoma
+H30.022	…… left eye	371.1	Exclusion	Glaucoma
+H30.023	…… bilateral	371.1	Exclusion	Glaucoma
+H30.029	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.03	Focal chorioretinal inflammation, peripheral	371.1	Exclusion	Glaucoma
+H30.031	…… right eye	371.1	Exclusion	Glaucoma
+H30.032	…… left eye	371.1	Exclusion	Glaucoma
+H30.033	…… bilateral	371.1	Exclusion	Glaucoma
+H30.039	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.04	Focal chorioretinal inflammation, macular or paramacular	371.1	Exclusion	Glaucoma
+H30.041	…… right eye	371.1	Exclusion	Glaucoma
+H30.042	…… left eye	371.1	Exclusion	Glaucoma
+H30.043	…… bilateral	371.1	Exclusion	Glaucoma
+H30.049	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.1	Disseminated chorioretinal inflammation	371.1	Exclusion	Glaucoma
+H30.10	Unspecified disseminated chorioretinal inflammation	371.1	Exclusion	Glaucoma
+H30.101	…… right eye	371.1	Exclusion	Glaucoma
+H30.102	…… left eye	371.1	Exclusion	Glaucoma
+H30.103	…… bilateral	371.1	Exclusion	Glaucoma
+H30.109	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.11	Disseminated chorioretinal inflammation of posterior pole	371.1	Exclusion	Glaucoma
+H30.111	…… right eye	371.1	Exclusion	Glaucoma
+H30.112	…… left eye	371.1	Exclusion	Glaucoma
+H30.113	…… bilateral	371.1	Exclusion	Glaucoma
+H30.119	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.12	Disseminated chorioretinal inflammation, peripheral	371.1	Exclusion	Glaucoma
+H30.121	…… right eye	371.1	Exclusion	Glaucoma
+H30.122	…… left eye	371.1	Exclusion	Glaucoma
+H30.123	…… bilateral	371.1	Exclusion	Glaucoma
+H30.129	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.13	Disseminated chorioretinal inflammation, generalized	371.1	Exclusion	Glaucoma
+H30.131	…… right eye	371.1	Exclusion	Glaucoma
+H30.132	…… left eye	371.1	Exclusion	Glaucoma
+H30.133	…… bilateral	371.1	Exclusion	Glaucoma
+H30.139	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.14	Acute posterior multifocal placoid pigment epitheliopathy	371.1	Exclusion	Glaucoma
+H30.141	…… right eye	371.1	Exclusion	Glaucoma
+H30.142	…… left eye	371.1	Exclusion	Glaucoma
+H30.143	…… bilateral	371.1	Exclusion	Glaucoma
+H30.149	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.2	Posterior cyclitis	371.1	Exclusion	Glaucoma
+H30.20	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.21	…… right eye	371.1	Exclusion	Glaucoma
+H30.22	…… left eye	371.1	Exclusion	Glaucoma
+H30.23	…… bilateral	371.1	Exclusion	Glaucoma
+H30.8	Other chorioretinal inflammations	371.1	Exclusion	Glaucoma
+H30.81	Harada's disease	371.1	Exclusion	Glaucoma
+H30.811	…… right eye	371.1	Exclusion	Glaucoma
+H30.812	…… left eye	371.1	Exclusion	Glaucoma
+H30.813	…… bilateral	371.1	Exclusion	Glaucoma
+H30.819	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.89	Other chorioretinal inflammations	371.1	Exclusion	Glaucoma
+H30.891	…… right eye	371.1	Exclusion	Glaucoma
+H30.892	…… left eye	371.1	Exclusion	Glaucoma
+H30.893	…… bilateral	371.1	Exclusion	Glaucoma
+H30.899	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.9	Unspecified chorioretinal inflammation	371.1	Exclusion	Glaucoma
+H30.90	…… unspecified eye	371.1	Exclusion	Glaucoma
+H30.91	…… right eye	371.1	Exclusion	Glaucoma
+H30.92	…… left eye	371.1	Exclusion	Glaucoma
+H30.93	…… bilateral	371.1	Exclusion	Glaucoma
 H31	Other disorders of choroid	363	Exclusion	Glaucoma
 H31.0	Chorioretinal scars	363.3	Exclusion	Glaucoma
 H31.00	Unspecified chorioretinal scars	363.3	Exclusion	Glaucoma
@@ -2066,8 +2596,41 @@ H40.839	Aqueous misdirection, unspecified eye	365	Exclusion	Glaucoma
 H40.89	Other specified glaucoma	365	Exclusion	Glaucoma
 H40.9	Unspecified glaucoma	365	Exclusion	Glaucoma
 H42	Glaucoma in diseases classified elsewhere	365	Exclusion	Glaucoma
-H44.2	Degenerative myopia	360.2	Exclusion	Glaucoma
-H44.20	Degenerative myopia, unspecified eye	360.2	Exclusion	Glaucoma
+H44	Disorders of globe	379	Exclusion	Glaucoma
+H44.0	Purulent endophthalmitis	371	Exclusion	Glaucoma
+H44.00	Unspecified purulent endophthalmitis	371	Exclusion	Glaucoma
+H44.001	…… right eye	371	Exclusion	Glaucoma
+H44.002	…… left eye	371	Exclusion	Glaucoma
+H44.003	…… bilateral	371	Exclusion	Glaucoma
+H44.009	…… unspecified eye	371	Exclusion	Glaucoma
+H44.01	Panophthalmitis (acute)	371	Exclusion	Glaucoma
+H44.011	…… right eye	371	Exclusion	Glaucoma
+H44.012	…… left eye	371	Exclusion	Glaucoma
+H44.013	…… bilateral	371	Exclusion	Glaucoma
+H44.019	…… unspecified eye	371	Exclusion	Glaucoma
+H44.02	Vitreous abscess (chronic)	371	Exclusion	Glaucoma
+H44.021	…… right eye	371	Exclusion	Glaucoma
+H44.022	…… left eye	371	Exclusion	Glaucoma
+H44.023	…… bilateral	371	Exclusion	Glaucoma
+H44.029	…… unspecified eye	371	Exclusion	Glaucoma
+H44.1	Other endophthalmitis	371	Exclusion	Glaucoma
+H44.11	Panuveitis	369	Exclusion	Glaucoma
+H44.111	…… right eye	371.1	Exclusion	Glaucoma
+H44.112	…… left eye	371.1	Exclusion	Glaucoma
+H44.113	…… bilateral	371.1	Exclusion	Glaucoma
+H44.119	…… unspecified eye	371.1	Exclusion	Glaucoma
+H44.12	Parasitic endophthalmitis, unspecified	371.1	Exclusion	Glaucoma
+H44.121	…… right eye	369	Exclusion	Glaucoma
+H44.122	…… left eye	369	Exclusion	Glaucoma
+H44.123	…… bilateral	369	Exclusion	Glaucoma
+H44.129	…… unspecified eye	369	Exclusion	Glaucoma
+H44.13	Sympathetic uveitis	369	Exclusion	Glaucoma
+H44.131	…… right eye	371.1	Exclusion	Glaucoma
+H44.132	…… left eye	371.1	Exclusion	Glaucoma
+H44.133	…… bilateral	371.1	Exclusion	Glaucoma
+H44.139	…… unspecified eye	371.1	Exclusion	Glaucoma
+H44.2	Degenerative myopia	371.1	Exclusion	Glaucoma
+H44.20	Degenerative myopia, unspecified eye	369	Exclusion	Glaucoma
 H44.21	Degenerative myopia, right eye	360.2	Exclusion	Glaucoma
 H44.22	Degenerative myopia, left eye	360.2	Exclusion	Glaucoma
 H44.23	Degenerative myopia, bilateral	360.2	Exclusion	Glaucoma
@@ -2152,6 +2715,78 @@ H44.531	Leucocoria, right eye	360	Exclusion	Glaucoma
 H44.532	Leucocoria, left eye	360	Exclusion	Glaucoma
 H44.533	Leucocoria, bilateral	360	Exclusion	Glaucoma
 H44.539	Leucocoria, unspecified eye	360	Exclusion	Glaucoma
+H44.6	Retained (old) intraocular foreign body, magnetic	1001	Exclusion	Glaucoma
+H44.60	Unspecified retained (old) intraocular foreign body, magnetic	1001	Exclusion	Glaucoma
+H44.601	…… right eye	1001	Exclusion	Glaucoma
+H44.602	…… left eye	1001	Exclusion	Glaucoma
+H44.603	…… bilateral	1001	Exclusion	Glaucoma
+H44.609	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.61	Retained (old) magnetic foreign body in anterior chamber	1001	Exclusion	Glaucoma
+H44.611	…… right eye	1001	Exclusion	Glaucoma
+H44.612	…… left eye	1001	Exclusion	Glaucoma
+H44.613	…… bilateral	1001	Exclusion	Glaucoma
+H44.619	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.62	Retained (old) magnetic foreign body in iris or ciliary body	1001	Exclusion	Glaucoma
+H44.621	…… right eye	1001	Exclusion	Glaucoma
+H44.622	…… left eye	1001	Exclusion	Glaucoma
+H44.623	…… bilateral	1001	Exclusion	Glaucoma
+H44.629	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.63	Retained (old) magnetic foreign body in lens	1001	Exclusion	Glaucoma
+H44.631	…… right eye	1001	Exclusion	Glaucoma
+H44.632	…… left eye	1001	Exclusion	Glaucoma
+H44.633	…… bilateral	1001	Exclusion	Glaucoma
+H44.639	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.64	Retained (old) magnetic foreign body in posterior wall of globe	1001	Exclusion	Glaucoma
+H44.641	…… right eye	1001	Exclusion	Glaucoma
+H44.642	…… left eye	1001	Exclusion	Glaucoma
+H44.643	…… bilateral	1001	Exclusion	Glaucoma
+H44.649	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.65	Retained (old) magnetic foreign body in vitreous body	1001	Exclusion	Glaucoma
+H44.651	…… right eye	1001	Exclusion	Glaucoma
+H44.652	…… left eye	1001	Exclusion	Glaucoma
+H44.653	…… bilateral	1001	Exclusion	Glaucoma
+H44.659	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.69	Retained (old) intraocular foreign body, magnetic, in other or multiple sites	1001	Exclusion	Glaucoma
+H44.691	…… right eye	1001	Exclusion	Glaucoma
+H44.692	…… left eye	1001	Exclusion	Glaucoma
+H44.693	…… bilateral	1001	Exclusion	Glaucoma
+H44.699	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.7	Retained (old) intraocular foreign body, nonmagnetic	1001	Exclusion	Glaucoma
+H44.70	Unspecified retained (old) intraocular foreign body, nonmagnetic	1001	Exclusion	Glaucoma
+H44.701	…… right eye	1001	Exclusion	Glaucoma
+H44.702	…… left eye	1001	Exclusion	Glaucoma
+H44.703	…… bilateral	1001	Exclusion	Glaucoma
+H44.709	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.71	Retained (nonmagnetic) (old) foreign body in anterior chamber	1001	Exclusion	Glaucoma
+H44.711	…… right eye	1001	Exclusion	Glaucoma
+H44.712	…… left eye	1001	Exclusion	Glaucoma
+H44.713	…… bilateral	1001	Exclusion	Glaucoma
+H44.719	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.72	Retained (nonmagnetic) (old) foreign body in iris or ciliary body	1001	Exclusion	Glaucoma
+H44.721	…… right eye	1001	Exclusion	Glaucoma
+H44.722	…… left eye	1001	Exclusion	Glaucoma
+H44.723	…… bilateral	1001	Exclusion	Glaucoma
+H44.729	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.73	Retained (nonmagnetic) (old) foreign body in lens	1001	Exclusion	Glaucoma
+H44.731	…… right eye	1001	Exclusion	Glaucoma
+H44.732	…… left eye	1001	Exclusion	Glaucoma
+H44.733	…… bilateral	1001	Exclusion	Glaucoma
+H44.739	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.74	Retained (nonmagnetic) (old) foreign body in posterior wall of globe	1001	Exclusion	Glaucoma
+H44.741	…… right eye	1001	Exclusion	Glaucoma
+H44.742	…… left eye	1001	Exclusion	Glaucoma
+H44.743	…… bilateral	1001	Exclusion	Glaucoma
+H44.749	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.75	Retained (nonmagnetic) (old) foreign body in vitreous body	1001	Exclusion	Glaucoma
+H44.751	…… right eye	1001	Exclusion	Glaucoma
+H44.752	…… left eye	1001	Exclusion	Glaucoma
+H44.753	…… bilateral	1001	Exclusion	Glaucoma
+H44.759	…… unspecified eye	1001	Exclusion	Glaucoma
+H44.79	Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites	1001	Exclusion	Glaucoma
+H44.791	…… right eye	1001	Exclusion	Glaucoma
+H44.792	…… left eye	1001	Exclusion	Glaucoma
+H44.793	…… bilateral	1001	Exclusion	Glaucoma
+H44.799	…… unspecified eye	1001	Exclusion	Glaucoma
 H44.8	Other disorders of globe	360	Exclusion	Glaucoma
 H44.81	Hemophthalmos	360	Exclusion	Glaucoma
 H44.811	Hemophthalmos, right eye	360	Exclusion	Glaucoma
@@ -2183,6 +2818,7 @@ E78.4	Other hyperlipidemia	272.1	Exclusion	Hypercholesterolemia (HCL)
 E78.5	Hyperlipidemia, unspecified	272.1	Exclusion	Hypercholesterolemia (HCL)
 E78.70	Disorder of bile acid and cholesterol metabolism, unspecified	272.9	Exclusion	Hypercholesterolemia (HCL)
 E78.9	Disorder of lipoprotein metabolism, unspecified	272.9	Exclusion	Hypercholesterolemia (HCL)
+E66.2	Morbid (severe) obesity with alveolar hypoventilation	513.3	Inclusion	Obesity
 E66.8	Other obesity	278.1	Inclusion	Obesity
 E66.811	Obesity, class 1	278.1	Inclusion	Obesity
 E66.812	Obesity, class 2	278.1	Inclusion	Obesity
@@ -2201,11 +2837,18 @@ Z68.36	Body mass index (BMI) 36.0-36.9, adult	278.1	Inclusion	Obesity
 Z68.37	Body mass index (BMI) 37.0-37.9, adult	278.1	Inclusion	Obesity
 Z68.38	Body mass index (BMI) 38.0-38.9, adult	278.1	Inclusion	Obesity
 Z68.39	Body mass index (BMI) 39.0-39.9, adult	278.1	Inclusion	Obesity
+Z68.4	Body mass index [BMI] 40 or greater, adult	278.11|1010	Inclusion	Obesity
+Z68.41	Body mass index [BMI] 40.0-44.9, adult	278.11|1010	Inclusion	Obesity
+Z68.42	Body mass index [BMI] 45.0-49.9, adult	278.11|1010	Inclusion	Obesity
+Z68.43	Body mass index [BMI] 50.0-59.9, adult	278.11|1010	Inclusion	Obesity
+Z68.44	Body mass index [BMI] 60.0-69.9, adult	278.11|1010	Inclusion	Obesity
+Z68.45	Body mass index [BMI] 70 or greater, adult	278.11|1010	Inclusion	Obesity
 E65	Localized adiposity	278.3	Exclusion	Obesity
 E66.0	Obesity due to excess calories	278.1	Exclusion	Obesity
 E66.01	Morbid (severe) obesity due to excess calories	278.11	Exclusion	Obesity
 E66.09	Other obesity due to excess calories	278.1	Exclusion	Obesity
 E66.1	Drug-induced obesity	278.1	Exclusion	Obesity
+E66.2	Morbid (severe) obesity with alveolar hypoventilation	513.3	Exclusion	Obesity
 E66.3	Overweight	278	Exclusion	Obesity
 E66.8	Other obesity	278.1	Exclusion	Obesity
 E66.811	Obesity, class 1	278.1	Exclusion	Obesity
@@ -2238,12 +2881,22 @@ Z68.36	Body mass index (BMI) 36.0-36.9, adult	278.1	Exclusion	Obesity
 Z68.37	Body mass index (BMI) 37.0-37.9, adult	278.1	Exclusion	Obesity
 Z68.38	Body mass index (BMI) 38.0-38.9, adult	278.1	Exclusion	Obesity
 Z68.39	Body mass index (BMI) 39.0-39.9, adult	278.1	Exclusion	Obesity
-Z68.4	Body mass index (BMI) 40 or greater, adult	278.11	Exclusion	Obesity
-Z68.41	Body mass index (BMI) 40.0-44.9, adult	278.11	Exclusion	Obesity
-Z68.42	Body mass index (BMI) 45.0-49.9, adult	278.11	Exclusion	Obesity
+Z68.4	Body mass index [BMI] 40 or greater, adult	278.11|1010	Exclusion	Obesity
+Z68.4	Body mass index (BMI) 40 or greater, adult	278.11|1010	Exclusion	Obesity
+Z68.41	Body mass index [BMI] 40.0-44.9, adult	278.11|1010	Exclusion	Obesity
+Z68.41	Body mass index (BMI) 40.0-44.9, adult	278.11|1010	Exclusion	Obesity
+Z68.42	Body mass index [BMI] 45.0-49.9, adult	278.11|1010	Exclusion	Obesity
+Z68.42	Body mass index (BMI) 45.0-49.9, adult	278.11|1010	Exclusion	Obesity
+Z68.43	Body mass index [BMI] 50.0-59.9, adult	278.11|1010	Exclusion	Obesity
 Z68.43	Body mass index (BMI) 50-59.9 , adult	278.11	Exclusion	Obesity
+Z68.44	Body mass index [BMI] 60.0-69.9, adult	278.11|1010	Exclusion	Obesity
 Z68.44	Body mass index (BMI) 60.0-69.9, adult	278.11	Exclusion	Obesity
+Z68.45	Body mass index [BMI] 70 or greater, adult	278.11|1010	Exclusion	Obesity
 Z68.45	Body mass index (BMI) 70 or greater, adult	278.11	Exclusion	Obesity
+Z68.53	…… 85th percentile to less than 95th percentile for age	1010	Exclusion	Obesity
+Z68.54	…… 95th percentile for age to less than 120% of the 95th percentile for age	1010	Exclusion	Obesity
+Z68.55	…… 120% of the 95th percentile for age to less than 140% of the 95th percentile for age	1010	Exclusion	Obesity
+Z68.56	…… greater than or equal to 140% of the 95th percentile for age	1010	Exclusion	Obesity
 C61	Carcinoma in situ of prostate	185	Inclusion	Prostate cancer (PCa)
 D07.5	Malignant neoplasm of prostate	185	Inclusion	Prostate cancer (PCa)
 R97.21	Rising PSA following treatment for malignant neoplasm of prostate	796	Inclusion	Prostate cancer (PCa)
@@ -3046,8 +3699,64 @@ E13.65	Other specified diabetes mellitus with hyperglycemia	250	Exclusion	Type 1
 E13.69	Other specified diabetes mellitus with other specified complication	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 E13.8	Other specified diabetes mellitus with unspecified complications	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 E13.9	Other specified diabetes mellitus without complications	250	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24	Diabetes mellitus in pregnancy, childbirth, and the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 O24.0	Pre-existing type 1 diabetes mellitus, in pregnancy, childbirth and the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.01	Pre-existing type 1 diabetes mellitus, in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.011	…… first trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.012	…… second trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.013	…… third trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.019	…… unspecified trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.02	Pre-existing type 1 diabetes mellitus, in childbirth	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.03	Pre-existing type 1 diabetes mellitus, in the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 O24.1	Pre-existing type 2 diabetes mellitus, in pregnancy, childbirth and the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.11	Pre-existing type 2 diabetes mellitus, in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.111	…… first trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.112	…… second trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.113	…… third trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.119	…… unspecified trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.12	Pre-existing type 2 diabetes mellitus, in childbirth	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.13	Pre-existing type 2 diabetes mellitus, in the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.3	Unspecified pre-existing diabetes mellitus in pregnancy, childbirth and the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.31	Unspecified pre-existing diabetes mellitus in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.311	…… first trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.312	…… second trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.313	…… third trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.319	…… unspecified trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.32	Unspecified pre-existing diabetes mellitus in childbirth	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.33	Unspecified pre-existing diabetes mellitus in the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.4	Gestational diabetes mellitus	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.41	Gestational diabetes mellitus in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.41	Gestational diabetes mellitus in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.410	…… diet controlled	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.414	…… insulin controlled	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.415	…… controlled by oral hypoglycemic drugs	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.419	…… unspecified control	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.42	Gestational diabetes mellitus in childbirth	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.420	…… diet controlled	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.424	…… insulin controlled	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.425	…… controlled by oral hypoglycemic drugs	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.429	…… unspecified control	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.43	Gestational diabetes mellitus in the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.430	…… diet controlled	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.434	…… insulin controlled	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.435	…… controlled by oral hypoglycemic drugs	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.439	…… unspecified control	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.8	Other pre-existing diabetes mellitus in pregnancy, childbirth, and the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.81	Other pre-existing diabetes mellitus in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.811	…… first trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.812	…… second trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.813	…… third trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.819	…… unspecified trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.82	Other pre-existing diabetes mellitus in childbirth	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.83	Other pre-existing diabetes mellitus in the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.9	Unspecified diabetes mellitus in pregnancy, childbirth and the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.91	Unspecified diabetes mellitus in pregnancy	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.911	…… first trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.912	…… second trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.913	…… third trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.919	…… unspecified trimester	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.92	Unspecified diabetes mellitus in childbirth	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+O24.93	Unspecified diabetes mellitus in the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 R73.0	Abnormal glucose	250.4	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 R73.01	Impaired fasting glucose	250.41	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 R73.02	Impaired glucose tolerance (oral)	250.41	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
@@ -3173,5 +3882,4 @@ E11.649	Type 2 diabetes mellitus with hypoglycemia without coma	250.2	Inclusion	
 E11.65	Type 2 diabetes mellitus with hyperglycemia	250.2	Inclusion	Type 2 diabetes (T2D)
 E11.69	Type 2 diabetes mellitus with other specified complication	250.2	Inclusion	Type 2 diabetes (T2D)
 E11.8	Type 2 diabetes mellitus with unspecified complications	250.2	Inclusion	Type 2 diabetes (T2D)
-
 E11.9	Type 2 diabetes mellitus without complications	250.2	Inclusion	Type 2 diabetes (T2D)
