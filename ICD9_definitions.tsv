@@ -235,6 +235,17 @@ V56.2	Fitting and adjustment of peritoneal dialysis catheter	585.31	Inclusion	Ch
 V56.31	Encounter for adequacy testing for hemodialysis	585.31	Inclusion	Chronic kidney disease (CKD)
 V56.32	Encounter for adequacy testing for peritoneal dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
 V56.8	Encounter for other dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
+249.4	Secondary diabetes mellitus with renal manifestations	249	Exclusion	Chronic kidney disease (CKD)
+249.40	Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified	249	Exclusion	Chronic kidney disease (CKD)
+249.41	Secondary diabetes mellitus with renal manifestations, uncontrolled	249	Exclusion	Chronic kidney disease (CKD)
+250.4	Diabetes mellitus with renal manifestations	250	Exclusion	Chronic kidney disease (CKD)
+250.41	Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled	250.22	Exclusion	Chronic kidney disease (CKD)
+250.42	Diabetes with renal manifestations, type II or unspecified type, uncontrolled	250.12	Exclusion	Chronic kidney disease (CKD)
+250.43	Diabetes with renal manifestations, type I [juvenile type], uncontrolled	250.22	Exclusion	Chronic kidney disease (CKD)
+274.1	Gouty nephropathy	250.12	Exclusion	Chronic kidney disease (CKD)
+274.10	Gouty nephropathy, unspecified	274.1	Exclusion	Chronic kidney disease (CKD)
+274.11	Uric acid nephrolithiasis	274.11	Exclusion	Chronic kidney disease (CKD)
+274.19	Other gouty nephropathy	274.11	Exclusion	Chronic kidney disease (CKD)
 580	Acute glomerulonephritis	580	Exclusion	Chronic kidney disease (CKD)
 580.0	Acute glomerulonephritis with lesion of proliferative glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
 580.4	Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis	580.11	Exclusion	Chronic kidney disease (CKD)
@@ -314,7 +325,6 @@ V56.8	Encounter for other dialysis	585.31	Inclusion	Chronic kidney disease (CKD)
 590.80	Pyelonephritis NOS	590	Exclusion	Chronic kidney disease (CKD)
 590.81	Pyelitis or pyelonephritis in diseases classified elsewhere	590	Exclusion	Chronic kidney disease (CKD)
 590.9	Infection of kidney NOS	590	Exclusion	Chronic kidney disease (CKD)
-593	Other disorders of kidney and ureter	586	Exclusion	Chronic kidney disease (CKD)
 593.0	Nephroptosis	586.1	Exclusion	Chronic kidney disease (CKD)
 593.1	Hypertrophy of kidney	586.3	Exclusion	Chronic kidney disease (CKD)
 593.2	Cyst of kidney, acquired	586.2	Exclusion	Chronic kidney disease (CKD)
@@ -373,6 +383,11 @@ V56.8	Encounter for other dialysis	585.31	Exclusion	Chronic kidney disease (CKD)
 996.03	Mechanical complication due to coronary bypass graft	411.4	Inclusion	Coronary artery disease (CAD)
 V45.81	Postsurgical aortocoronary bypass status	411.4	Inclusion	Coronary artery disease (CAD)
 V45.82	Percutaneous transluminal coronary angioplasty, postsurgical status	411.4	Inclusion	Coronary artery disease (CAD)
+074.2	Coxsackie carditis	411.2	Exclusion	Coronary artery disease (CAD)
+074.20	Coxsackie carditis, unspecified	411.2	Exclusion	Coronary artery disease (CAD)
+074.21	Coxsackie pericarditis	411.2	Exclusion	Coronary artery disease (CAD)
+074.22	Coxsackie endocarditis	411.2	Exclusion	Coronary artery disease (CAD)
+074.23	Coxsackie myocarditis	411.2	Exclusion	Coronary artery disease (CAD)
 410	Acute myocardial infarction	411.2	Exclusion	Coronary artery disease (CAD)
 410.0	Acute myocardial infarction, of anterolateral wall	411.2	Exclusion	Coronary artery disease (CAD)
 410.00	Acute myocardial infarction, of anterolateral wall, episode of care unspecified	411.2	Exclusion	Coronary artery disease (CAD)
@@ -510,6 +525,14 @@ V45.82	Percutaneous transluminal coronary angioplasty, postsurgical status	411.4
 365.83	Aqueous misdirection	365	Inclusion	Glaucoma
 365.89	Other specified glaucoma	365	Inclusion	Glaucoma
 365.9	Glaucoma NOS	365	Inclusion	Glaucoma
+249.5	Secondary diabetes mellitus with ophthalmic manifestations	249	Exclusion	Glaucoma
+249.50	Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified	249	Exclusion	Glaucoma
+249.51	Secondary diabetes mellitus with ophthalmic manifestations, uncontrolled	249	Exclusion	Glaucoma
+250.5	Diabetes with ophthalmic manifestations	250	Exclusion	Glaucoma
+250.50	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ophthalmic manifestations	250.23	Exclusion	Glaucoma
+250.51	Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ophthalmic manifestations	250.13	Exclusion	Glaucoma
+250.52	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ophthalmic manifestations	250.23	Exclusion	Glaucoma
+250.53	Diabetes mellitus type I [juvenile type], uncontrolled, with ophthalmic manifestations	250.13	Exclusion	Glaucoma
 360	Disorders of the globe	360	Exclusion	Glaucoma
 360.2	Degenerative disorders of globe	360	Exclusion	Glaucoma
 360.20	Degenerative disorder of globe, unspecified	360	Exclusion	Glaucoma
@@ -786,6 +809,8 @@ V42.5	Cornea replaced by transplant	364.9	Exclusion	Glaucoma
 272.4	Other and unspecified hyperlipidemia	272.1	Exclusion	Hypercholesterolemia (HCL)
 272.9	Unspecified disorder of lipoid metabolism	272.9	Exclusion	Hypercholesterolemia (HCL)
 278.00	Obesity NOS	278.1	Inclusion	Obesity
+278.01	Morbid obesity	278.11	Inclusion	Obesity
+278.03	Obesity hypoventilation syndrome	278	Inclusion	Obesity
 793.91	Image test inconclusive due to excess body fat	278.1	Inclusion	Obesity
 V85.3	Body Mass Index between 30-39, adult	278.1	Inclusion	Obesity
 V85.30	Body Mass Index 30.0-30.9, adult	278.1	Inclusion	Obesity
@@ -810,6 +835,7 @@ V85.54	Body Mass Index, pediatric, greater than or equal to 95th percentile for 
 278.00	Obesity NOS	278.1	Exclusion	Obesity
 278.01	Morbid obesity	278.11	Exclusion	Obesity
 278.02	Overweight	278	Exclusion	Obesity
+278.03	Obesity hypoventilation syndrome	278	Exclusion	Obesity
 278.1	Localized adiposity	278.3	Exclusion	Obesity
 278.2	Hypervitaminosis A	278	Exclusion	Obesity
 278.3	Hypercarotinemia	278	Exclusion	Obesity
@@ -1021,6 +1047,12 @@ V10.49	Personal history of malignant neoplasm of other male genital organs	187.1
 362.05	Moderate nonproliferative diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 362.06	Severe nonproliferative diabetic retinopathy	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 362.07	Diabetic macular edema	250.7	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+648.0	Diabetes mellitus complicating pregnancy childbirth or the puerperium	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+648.00	Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+648.01	Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+648.02	Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+648.03	Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
+648.04	Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication	649.1	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 790.2	Abnormal glucose	250.4	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 790.21	Impaired fasting glucose	250.41	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
 790.22	Impaired glucose tolerance test (oral)	250.41	Exclusion	Type 1 diabetes (T1D)/Type 2 diabetes (T2D)
