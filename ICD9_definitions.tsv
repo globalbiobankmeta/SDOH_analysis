@@ -829,7 +829,6 @@ V85.42	Body mass index 45.0-49.9, adult	278.11	Inclusion	Obesity
 V85.43	Body mass index 50.0-59.9, adult	278.11	Inclusion	Obesity
 V85.44	Body mass index 60.0-69.9, adult	278.11	Inclusion	Obesity
 V85.45	Body mass index 70 and over, adult	278.11	Inclusion	Obesity
-V85.54	Body Mass Index, pediatric, greater than or equal to 95th percentile for age	278.1	Inclusion	Obesity
 278	Overweight, obesity and other hyperalimentation	278	Exclusion	Obesity
 278.0	Overweight and obesity	278	Exclusion	Obesity
 278.00	Obesity NOS	278.1	Exclusion	Obesity
@@ -1083,3 +1082,4 @@ V65.46	Encounter for insulin pump training	250.3	Exclusion	Type 1 diabetes (T1D)
 250.82	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with other specified manifestations	250.2	Inclusion	Type 2 diabetes (T2D)
 250.90	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with unspecified complication	250.2	Inclusion	Type 2 diabetes (T2D)
 250.92	Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with unspecified complication	250.2	Inclusion	Type 2 diabetes (T2D)
+
